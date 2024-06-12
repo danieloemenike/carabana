@@ -10,7 +10,7 @@ export const kitchenMenu = [
           { id: 4, name: "CHICKEN PEPPERSOUP", price: "N4,000", image: "/chickenpp.jpeg" },
           { id: 5, name: "TURKEY PEPPERSOUP", price: "N4,000", image: "/turkeypp.jpeg" },
           { id: 6, name: "COWTAIL PEPPERSOUP", price: "N3,500", image: "/cowtailpp.jpeg" }, 
-          { id: 7, name: "CATFISH PEPPERSOUP", price: "N10,000", image: "/catfishpp.jpeg" },
+          { id: 7, name: "CATFISH PEPPERSOUP", price: "N12,000", image: "/catfishpp.jpeg" },
     
         ]
     },
@@ -36,7 +36,6 @@ export const kitchenMenu = [
           { id: 15, name: "FULL CHICKEN VEG", price: "N8,500", image: "/chickenveg.jpeg" },
         ]
     },
-
     {
       id: 3,
       category: "Main Dishes",
@@ -49,7 +48,7 @@ export const kitchenMenu = [
         { id: 6, name: "COCONUT RICE", price: "N2,000", image: "/coconutrice.jpeg" },
         { id: 7, name: "VILLAGE RICE", price: "N2,500", image: "/villagerice.webp" },
         { id: 8, name: "BASMATIC RICE", price: "N2,000", image: "/basmaticrice.jpeg" },
-        { id: 8, name: "BASMATIC RICE(FRIED/JOLLOF)", price: "N3,000", image: "/basmaticrice.jpeg" },
+        { id: 20, name: "BASMATIC RICE(FRIED/JOLLOF)", price: "N3,000", image: "/basmaticrice.jpeg" },
         { id: 9, name: "NOODLES", price: "N1,700", image: "/noodless.jpeg" },
         { id: 10, name: "SPECIAL NOODLES & EGG", price: "N2,500", image: "/noodles.webp" },
         { id: 10, name: "SPECIAL NOODLES(WITH SAUSAGE)", price: "N3,000", image: "/noodles.webp" },
@@ -57,7 +56,7 @@ export const kitchenMenu = [
         { id: 12, name: "MACARONI (STIR FRY/JOLLOF)", price: "N2,000", image: "/macaroni.jpeg" },
         { id: 13, name: "YAM(BOILED/FRIED)", price: "N1,500", image: "/yamboiled.jpeg" },
         { id: 14, name: "YAM & EGG SAUCE", price: "N3,000", image: "/yam-and-egg-sauce-image.jpg" },
-        { id: 15, name: "PLANTAIN & EGG SAUCE", price: "N2,000", image: "/plantandegg.webp" },
+        { id: 15, name: "PLANTAIN & EGG SAUCE", price: "N2,500", image: "/plantandegg.webp" },
         { id: 16, name: "YAM PORRIDGE", price: "N2,000", image: "/yamporridge.jpeg" },
         { id: 17, name: "EGG(BOILED / FRIED)", price: "N800", image: "/boiledorfried.jpeg" },
         { id: 18, name: "EGG SAUCE", price: "N1,500", image: "/eggsauce.jpeg" },
@@ -89,10 +88,10 @@ export const kitchenMenu = [
       food: [
         { id: 1, name: "ASUN", price: "N2,000", image: "/asunnn.jpeg" }, 
         { id: 2, name: "SUYA", price: "N1,000", image: "/suya.jpeg" },
-        { id: 3, name: "CHICKEN & CHIPS", price: "N15,000", image: "/chickenandchips.jpeg" },
-        { id: 4, name: "CATFISH BBQ", price: "N10,000", image: "/catfishbbq.jpeg" },
+        { id: 3, name: "CHICKEN & CHIPS", price: "N5,000", image: "/chickenandchips.jpeg" },
+        { id: 4, name: "CATFISH BBQ", price: "N12,000", image: "/catfishbbq.jpeg" },
         { id: 5, name: "CROACKER FISH BBQ", price: "N7,000", image: "/croackerfish.jpeg" },
-        { id: 6, name: "SHAWARMA", price: "N2,000", image: "/shawarma.jpeg" },
+        { id: 6, name: "SHAWARMA", price: "N2,500", image: "/shawarma.jpeg" },
   
      
       ]
