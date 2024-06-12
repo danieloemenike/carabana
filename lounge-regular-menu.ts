@@ -9,7 +9,7 @@ export const regularMenu = [
           { id: 3, name: "VOLCAN XA", price: "N450,000", image: "/volxa.png" }, 
           { id: 4, name: "VOLCAN WHITE", price: "N100,000", image: "/volwhite.webp" },
           { id: 5, name: "VOLCAN GOLD", price: "N120,000", image: "/volgold.webp" },
-          { id: 6, name: "SIERRA TEQUILA", price: "N50,000", image: "/st.webp" }, 
+          { id: 6, name: "SIERRA TEQUILA", price: "N40,000", image: "/st.webp" }, 
           { id: 7, name: "OLMECA TEQUILA", price: "N70,000", image: "/otqq.webp" },
           { id: 8, name: "CASA MAESTRI", price: "N250,000", image: "/casaa.webp" },
           { id: 9, name: "CASAMIGOS WHITE", price: "N250,000", image: "/casawh.webp" },
@@ -51,7 +51,7 @@ export const regularMenu = [
             { id: 12, name: "GOLD LABEL", price: "N70,000", image: "/gl.webp" },
             { id: 13, name: "AMERICAN HONEY", price: "N40,000", image: "/amh.png" }, 
             { id: 14, name: "JAMESON GREEN BARREL", price: "N40,000", image: "/gb.png" }, 
-            { id: 15, name: "JAMESON BLACK BARREL", price: "N60,000", image: "/jbb.jpeg" },
+            { id: 15, name: "JAMESON BLACK BARREL", price: "N50,000", image: "/jbb.jpeg" },
           { id: 16, name: "MONKEY SHOULDER", price: "N40,000", image: "/mshh.jpeg" },
           { id: 17, name: "JACK DANIELS", price: "N35,000", image: "/jackdaniels.jpeg" },
         ]
@@ -125,6 +125,8 @@ export const regularMenu = [
             { id: 12, name: "BIG HOLLANDIA", price: "N2,500", image: "/hy.jpeg" },
             { id: 13, name: "SMALL HOLLANDIA", price: "N700", image: "/hy.jpeg" },
             { id: 14, name: "ICE TEA BIG", price: "N1,500", image: "/icedtea.jpeg" },
+          { id: 15, name: "ZOBO", price: "N1,500", image: "/zobo.jpeg" },
+          { id: 16, name: "TEEZERS", price: "N1,500", image: "/teezers.jpeg" },
         ]
     },
           
@@ -184,7 +186,8 @@ export const regularMenu = [
       drinks: [
           { id: 1, name: "AMARULA", price: "N15,000", image: "/amarula.png" },
         { id: 0, name: "BAILEYS", price: "N20,000", image: "/bail.jpeg" },
-        { id: 2, name: "BEST CREAM", price: "N2,500", image: "/smalbes.webp" }
+        { id: 2, name: "BEST CREAM", price: "N2,500", image: "/smalbes.webp" },
+        { id: 3, name: "Dinomeno", price: "N20,000", image: "/sunsetrose.jpeg" }
       ]
     },
     {
@@ -204,6 +207,7 @@ export const regularMenu = [
           { id: 1, name: "BENSON CORE", price: "N1,200", image: "/bens.jpeg" },
           { id: 2, name: "BENSON SWITCH", price: "N1,500", image: "/benswi.jpeg" },
           { id: 3, name: "DUNHILL SWITCH", price: "N1,700", image: "/dhsw.webp" },
+          { id: 4, name: "LIGHTER", price: "N500", image: "/lighter.png" },
         
       ]
     },
