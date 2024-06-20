@@ -3,7 +3,7 @@ export const kitchenMenu = [
         id: 0,
         category: "Starters",
         food: [
-          { id: 0, name: "NKWOBI", price: "N2,000", image: "/nkwobi.jpeg" },
+          { id: 0, name: "NKWOBI", price: "N3,000", image: "/nkwobi.jpeg" },
           { id: 1, name: "ISI-EWU(GOAT HEAD)", price: "N7,000", image: "/isiewu.jpeg" },
           { id: 2, name: "GOATMEAT PEPPERSOUP", price: "N2,500", image: "/goatmeat.jpeg" },
           { id: 3, name: "ASSORTED PEPPERSOUP", price: "N4,000", image: "/assortedpp.jpeg" }, 
