@@ -46,7 +46,7 @@ export const Madiba_Sky_Menu = [
             { id: 7, name: "GLENMORANGIE SIGNET", price: "N550,000", image: "/glsign.jpeg" },
             { id: 8, name: "NECTAR D'OR", price: "N120,000", image: "/glnec.png" },
             { id: 9, name: "BLUE LABEL", price: "N450,000", image: "/bll.jpg" },
-            { id: 10, name: "BLACK LABEL", price: "N30,000", image: "/bl.jpeg" },
+            { id: 10, name: "BLACK LABEL", price: "N40,000", image: "/bl.jpeg" },
             { id: 11, name: "RED LABEL", price: "N25,000", image: "/rl.jpeg" },
             { id: 12, name: "GOLD LABEL", price: "N70,000", image: "/gl.webp" },
             { id: 13, name: "AMERICAN HONEY", price: "N40,000", image: "/amh.png" }, 
@@ -141,7 +141,7 @@ export const Madiba_Sky_Menu = [
             { id: 3, name: "SMALL CAMPARI", price: "N5,000", image: "/smallca.webp" },
              { id: 4, name: "GORDONS GIN", price: "N10,000", image: "/gord.jpeg" },//CHECK
             { id: 5, name: "JAGERMEISTER", price: "N30,000", image: "/jarge.webp" },//CHECK
-            { id: 6, name: "BULLET", price: "N2,000", image: "/bbul.jpeg" },//CHECK
+            { id: 6, name: "BULLET", price: "N3,000", image: "/bbul.jpeg" },//CHECK
             { id: 7, name: "PLASTIC ORIJIN", price: "N2,500", image: "/orbit.avif" },//CHECK
           { id: 8, name: "ODOGWU BITTERS", price: "N2,500", image: "/odbit.jpeg" },
           { id: 9, name: "ODOGWU HAMMER", price: "N2,000", image: "/hammer.webp" },//CHECK
