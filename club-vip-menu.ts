@@ -25,7 +25,7 @@ export const vipMenu = [
           { id: 2, name: "HENNESSY VS", price: "N100,000", image: "/images.jpeg" },
           { id: 3, name: "MARTELL XXO", price: "N600,000", image: "/martelxxo.webp" }, 
           { id: 4, name: "MARTELL XO", price: "N450,000", image: "/Martell-XO.webp" },
-          { id: 5, name: "MARTELL BLUESWIFT", price: "N150,000", image: "/mtswift.png" },
+          { id: 5, name: "MARTELL BLUESWIFT", price: "N120,000", image: "/mtswift.png" },
           { id: 6, name: "MARTELL VS", price: "N80,000", image: "/martk.png" }, 
           { id: 7, name: "REMY MARTINS XO", price: "N450,000", image: "/rmxo.jpeg" },
           { id: 8, name: "REMY MARTINS VSOP", price: "N100,000", image: "/rmvs.png" },
@@ -51,7 +51,7 @@ export const vipMenu = [
             { id: 12, name: "GOLD LABEL", price: "N70,000", image: "/gl.webp" },
             { id: 13, name: "AMERICAN HONEY", price: "N40,000", image: "/amh.png" }, 
             { id: 14, name: "JAMESON GREEN BARREL", price: "N40,000", image: "/gb.png" }, 
-            { id: 15, name: "JAMESON BLACK BARREL", price: "N60,000", image: "/jbb.jpeg" },
+            { id: 15, name: "JAMESON BLACK BARREL", price: "N50,000", image: "/jbb.jpeg" },
             { id: 16, name: "MONKEY SHOULDER", price: "N40,000", image: "/mshh.jpeg" },
         ]
       },
@@ -113,9 +113,9 @@ export const vipMenu = [
             { id: 1, name: "COKE", price: "N500", image: "/coke.png" },
             { id: 2, name: "SPRITE", price: "N500", image: "/sprite.jpeg" },
             { id: 3, name: "SCHWEPPES", price: "N500", image: "/schw.avif" },
-            { id: 4, name: "FAYROUZ", price: "N700", image: "/fayrouz-pet-x12.jpg" },
-            { id: 5, name: "MALTA GUINNESS", price: "N800", image: "/mltg.jpeg" },
-            { id: 6, name: "AMSTEL MALTA ", price: "N800", image: "/amsmalt.png" },
+            { id: 4, name: "FAYROUZ", price: "N800", image: "/fayrouz-pet-x12.jpg" },
+            { id: 5, name: "MALTA GUINNESS", price: "N900", image: "/mltg.jpeg" },
+            { id: 6, name: "AMSTEL MALTA ", price: "N900", image: "/amsmalt.png" },
             { id: 7, name: "HANGOVER TEA ", price: "N1,000", image: "/hgov.jpeg" },
             { id: 8, name: "REDBULL", price: "N2000", image: "/redbull.jpeg" },//CHECK
             { id: 9, name: "BIG CHIVITA", price: "N2,000", image: "/chibig.jpeg" },//CHECK
@@ -141,8 +141,8 @@ export const vipMenu = [
              { id: 4, name: "GORDONS GIN", price: "N10,000", image: "/gord.jpeg" },//CHECK
             { id: 5, name: "JAGERMEISTER", price: "N30,000", image: "/jarge.webp" },//CHECK
             { id: 6, name: "BULLET", price: "N3,000", image: "/bbul.jpeg" },//CHECK
-            { id: 7, name: "PLASTIC ORIJIN", price: "N2,000", image: "/orbit.avif" },//CHECK
-          { id: 8, name: "ODOGWU BITTERS", price: "N2,000", image: "/odbit.jpeg" },
+            { id: 7, name: "PLASTIC ORIJIN", price: "N2,500", image: "/orbit.avif" },//CHECK
+          { id: 8, name: "ODOGWU BITTERS", price: "N2,500", image: "/odbit.jpeg" },
           { id: 9, name: "ODOGWU HAMMER", price: "N2,000", image: "/hammer.webp" },//CHECK
           { id: 10, name: "1960 BITTERS", price: "N1,500", image: "/1960roots.webp" },//CHECK
           { id: 11, name: "EROKO BITTERS", price: "N1,000", image: "/eroko.png" },
@@ -154,29 +154,29 @@ export const vipMenu = [
         category: "Beers",
         drinks: [
             { id: 1, name: "DESPERADO", price: "N1,200", image: "/desp.jpg" },
-            { id: 2, name: "BIG STOUT", price: "N1,500", image: "/bigstout.webp" },
-            { id: 3, name: "HEINEKEN", price: "N1,500", image: "/hein.jpg" },
-            { id: 4, name: "BIG ORIJIN", price: "N1,500", image: "/Orijin-Beer.webp" },
-            { id: 5, name: "TIGER", price: "N1,000", image: "/tiger.jpeg" },
-            { id: 6, name: "SMALL STOUT", price: "N1,000", image: "/Stout.jpg" },
-            { id: 7, name: "GOLDBERG", price: "N1,200", image: "/gold.jpeg" },
-            { id: 8, name: "GULDER", price: "N1,200", image: "/guld.jpeg" },
-            { id: 9, name: "33 EXPORT", price: "N1,200", image: "/33-bottle.jpg" },
-            { id: 10, name: "STAR", price: "N1,200", image: "/star.jpeg" },
-            { id: 11, name: "LIFE", price: "N1,200", image: "/life.jpeg" },
-            { id: 12, name: "TROPHY", price: "N1,200", image: "/trophy.webp" },
-            { id: 13, name: "TROPHY STOUT", price: "N1,200", image: "/tstout.png" },
-            { id: 14, name: "HERO", price: "N1,200", image: "/hero2.jpeg" },
-            { id: 15, name: "STAR RADLER", price: "N1000", image: "/st.jpg" },
-            { id: 16, name: "SMIRNOFF ICE", price: "N1000", image: "/smsm.jpeg" },
-            { id: 17, name: "GUINESS EXTRA SMOOTH", price: "N1,000", image: "/gs.jpg" },
-            { id: 18, name: "LEGEND", price: "N1,500", image: "/legend.jpeg" },
-            { id: 19, name: "ODOGWU BITTERS", price: "N2,000", image: "/odbit.jpeg" },
-            { id: 20, name: "BUDWEISER", price: "N1,500", image: "/budbig.avif" },
+            { id: 2, name: "BIG STOUT", price: "N1,700", image: "/bigstout.webp" },
+            { id: 3, name: "HEINEKEN", price: "N1,700", image: "/hein.jpg" },
+            { id: 4, name: "BIG ORIJIN", price: "N1,700", image: "/Orijin-Beer.webp" },
+            { id: 5, name: "TIGER", price: "N1,200", image: "/tiger.jpeg" },
+            { id: 6, name: "SMALL STOUT", price: "N1,200", image: "/Stout.jpg" },
+            { id: 7, name: "GOLDBERG", price: "N1,500", image: "/gold.jpeg" },
+            { id: 8, name: "GULDER", price: "N1,500", image: "/guld.jpeg" },
+            { id: 9, name: "33 EXPORT", price: "N1,500", image: "/33-bottle.jpg" },
+            { id: 10, name: "STAR", price: "N1,500", image: "/star.jpeg" },
+            { id: 11, name: "LIFE", price: "N1,500", image: "/life.jpeg" },
+            { id: 12, name: "TROPHY", price: "N1,500", image: "/trophy.webp" },
+            { id: 13, name: "TROPHY STOUT", price: "N1,500", image: "/tstout.png" },
+            { id: 14, name: "HERO", price: "N1,500", image: "/hero2.jpeg" },
+            { id: 15, name: "STAR RADLER", price: "N1,200", image: "/st.jpg" },
+            { id: 16, name: "SMIRNOFF ICE", price: "N1,200", image: "/smsm.jpeg" },
+            { id: 17, name: "GUINESS EXTRA SMOOTH", price: "N1,200", image: "/gs.jpg" },
+            { id: 18, name: "LEGEND", price: "N1,700", image: "/legend.jpeg" },
+            { id: 19, name: "ODOGWU BITTERS", price: "N2,500", image: "/odbit.jpeg" },
+            { id: 20, name: "BUDWEISER", price: "N1,700", image: "/budbig.avif" },
             { id: 21, name: "WATER", price: "N500", image: "/wt.png" },
-            { id: 22, name: "SMIRNOFF ICE DOUBLE BLACK GUARANA", price: "N1200", image: "/dbice.jpeg" }, 
-          { id: 23, name: "FLYING FISH", price: "N1,000", image: "/ff.jpeg" },
-          { id: 24, name: "CASTLE LITE", price: "N1,200", image: "/lite.webp" },
+            { id: 22, name: "SMIRNOFF ICE DOUBLE BLACK", price: "N1200", image: "/dbice.jpeg" }, 
+          { id: 23, name: "FLYING FISH", price: "N1,200", image: "/ff.jpeg" },
+          { id: 24, name: "CASTLE LITE", price: "N1,500", image: "/lite.webp" },
         ]
     },
       
