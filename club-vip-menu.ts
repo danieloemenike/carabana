@@ -52,7 +52,9 @@ export const vipMenu = [
             { id: 13, name: "AMERICAN HONEY", price: "N40,000", image: "/amh.png" }, 
             { id: 14, name: "JAMESON GREEN BARREL", price: "N40,000", image: "/gb.png" }, 
             { id: 15, name: "JAMESON BLACK BARREL", price: "N50,000", image: "/jbb.jpeg" },
-            { id: 16, name: "MONKEY SHOULDER", price: "N40,000", image: "/mshh.jpeg" },
+          { id: 16, name: "MONKEY SHOULDER", price: "N40,000", image: "/mshh.jpeg" },
+          { id: 18, name: "CHIVAS REGAL 18 YEARS", price: "N120,000", image: "/chivas18.jpg" },
+          { id: 19, name: "CHIVAS XV 15 YEARS", price: "N90,000", image: "/chivasxv15.jpeg" },
         ]
       },
 
@@ -72,6 +74,8 @@ export const vipMenu = [
         { id: 10, name: "DORNFELDER WINE", price: "N12,000", image: "/dornfelder.webp" },
         { id: 11, name: "ALABASTA WINE", price: "N15,000", image: "/alabaster.jpeg" },
         { id: 12, name: "CRONIER WINE", price: "N15,000", image: "/cron.webp" },
+        { id: 14, name: "GUCCI WINE", price: "N15,000", image: "/gucciwine.jpg" },
+        
       ]
     },
   

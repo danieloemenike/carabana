@@ -54,6 +54,8 @@ export const Madiba_Sky_Menu = [
             { id: 15, name: "JAMESON BLACK BARREL", price: "N50,000", image: "/jbb.jpeg" },
           { id: 16, name: "MONKEY SHOULDER", price: "N40,000", image: "/mshh.jpeg" },
           { id: 17, name: "JACK DANIELS", price: "N35,000", image: "/jackdaniels.jpeg" },
+          { id: 18, name: "CHIVAS REGAL 18 YEARS", price: "N120,000", image: "/chivas18.jpg" },
+          { id: 19, name: "CHIVAS XV 15 YEARS", price: "N90,000", image: "/chivasxv15.jpeg" },
         ]
       },
 
@@ -75,6 +77,7 @@ export const Madiba_Sky_Menu = [
         { id: 12, name: "CRONIER WINE", price: "N15,000", image: "/cron.webp" },
         { id: 13, name: "CHAMDOR", price: "N10,000", image: "/chamdor.jpeg" },
         { id: 14, name: "VELETA WINE", price: "N10,000", image: "/veleta_wine.webp" },
+        { id: 15, name: "GUCCI WINE", price: "N15,000", image: "/gucciwine.jpg" },
       ]
     },
   
