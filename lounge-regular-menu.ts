@@ -84,7 +84,7 @@ export const regularMenu = [
       id: 4,
       category: "Champagne",
       drinks: [
-          { id: 1, name: "ACE OF SPADES", price: "N750,000", image: "/acesp.jpeg" },
+          { id: 1, name: "ACE OF SPADES", price: "N650,000", image: "/acesp.jpeg" },
           { id: 2, name: "CRISTAL CHAMPAGNE", price: "N700,000", image: "/cristal.jpeg" },
         { id: 3, name: "DOM PERIGNON", price: "N750,000", image: "/domcha.jpeg" },
         { id: 4, name: "MOET ROSE", price: "N200,000", image: "/moetrose.jpeg" },  
