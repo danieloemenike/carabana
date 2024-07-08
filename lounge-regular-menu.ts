@@ -189,7 +189,7 @@ export const regularMenu = [
       drinks: [
           { id: 1, name: "AMARULA", price: "N15,000", image: "/amarula.png" },
         { id: 0, name: "BAILEYS", price: "N20,000", image: "/bail.jpeg" },
-        { id: 2, name: "BEST CREAM", price: "N2,500", image: "/smalbes.webp" },
+        { id: 2, name: "BEST CREAM", price: "N3,000", image: "/smalbes.webp" },
         { id: 3, name: "Dinomeno", price: "N20,000", image: "/sunsetrose.jpeg" }
       ]
     },
