@@ -13,7 +13,7 @@ export const vipMenu = [
           { id: 7, name: "OLMECA TEQUILA", price: "N70,000", image: "/otqq.webp" },
           { id: 8, name: "CASA MAESTRI", price: "N250,000", image: "/casaa.webp" },
           { id: 9, name: "CASAMIGOS WHITE", price: "N250,000", image: "/casawh.webp" },
-          { id: 10, name: "CASAMIGOS GOLD", price: "N280,000", image: "/casagd.jpeg" },
+          { id: 10, name: "CASAMIGOS GOLD", price: "N250,000", image: "/casagd.jpeg" },
         ]
     },
     {
@@ -21,11 +21,11 @@ export const vipMenu = [
         category: "Cognac",
         drinks: [
           { id: 0, name: "HENNESSY XO", price: "N550,000", image: "/henxo.jpeg" },
-          { id: 1, name: "HENNESSY VSOP", price: "N180,000", image: "/henvs.png" },
+          { id: 1, name: "HENNESSY VSOP", price: "N160,000", image: "/henvs.png" },
           { id: 2, name: "HENNESSY VS", price: "N100,000", image: "/images.jpeg" },
           { id: 3, name: "MARTELL XXO", price: "N600,000", image: "/martelxxo.webp" }, 
           { id: 4, name: "MARTELL XO", price: "N450,000", image: "/Martell-XO.webp" },
-          { id: 5, name: "MARTELL BLUESWIFT", price: "N120,000", image: "/mtswift.png" },
+          { id: 5, name: "MARTELL BLUESWIFT", price: "N150,000", image: "/mtswift.png" },
           { id: 6, name: "MARTELL VS", price: "N80,000", image: "/martk.png" }, 
           { id: 7, name: "REMY MARTINS XO", price: "N450,000", image: "/rmxo.jpeg" },
           { id: 8, name: "REMY MARTINS VSOP", price: "N100,000", image: "/rmvs.png" },
@@ -91,7 +91,7 @@ export const vipMenu = [
         { id: 4, name: "MOET ROSE", price: "N200,000", image: "/moetrose.jpeg" },  
         { id: 5, name: "MOET ICE", price: "N250,000", image: "/moetice.jpeg" },   
         { id: 6, name: "VEUVE CLIEQUOT", price: "N200,000", image: "/veu.webp" },
-        { id: 7, name: "BELAIRE ROSE", price: "N110,000", image: "/blr.jpeg" },
+        { id: 7, name: "BELAIRE ROSE", price: "N120,000", image: "/blr.jpeg" },
         { id: 8, name: "BELAIRE LUX", price: "N120,000", image: "/belue.webp" },
         { id: 9, name: "BELAIRE LUX FANTOME", price: "N120,000", image: "/beluxe.png" },
       ]
@@ -103,7 +103,7 @@ export const vipMenu = [
       drinks: [
         { id: 1, name: "CIROC", price: "N80,000", image: "/ciroc.jpeg" }, 
         { id: 2, name: "BELVEDERE VODKA", price: "N70,000", image: "/belvod.webp" },
-        { id: 3, name: "SMIRNOFF XI", price: "N12,000", image: "/vodsm.webp" },
+        { id: 3, name: "SMIRNOFF XI", price: "N15,000", image: "/vodsm.webp" },
         { id: 4, name: "ABSOLUT VODKA", price: "N20,000", image: "/absvod.webp" },
         { id: 5, name: "BIG MAGIC MOMENT", price: "N15,000", image: "/bmm.webp" },
         { id: 6, name: "WILLIAMS LAWSON", price: "N25,000", image: "/wll.jpg" },
@@ -126,7 +126,7 @@ export const vipMenu = [
             { id: 8, name: "REDBULL", price: "N2000", image: "/redbull.jpeg" },//CHECK
             { id: 9, name: "BIG CHIVITA", price: "N2,000", image: "/chibig.jpeg" },//CHECK
             { id: 10, name: "SMALL CHIVITA", price: "N700", image: "/chismall.jpeg" },//CHECK
-            { id: 11, name: "CRANBERRY", price: "N5,000", image: "/stute.png" },
+            { id: 11, name: "CRANBERRY", price: "N7,000", image: "/stute.png" },
             { id: 12, name: "BIG HOLLANDIA", price: "N2,500", image: "/hy.jpeg" },
             { id: 13, name: "SMALL HOLLANDIA", price: "N700", image: "/hy.jpeg" },
             { id: 14, name: "ICE TEA BIG", price: "N1,500", image: "/icedtea.jpeg" },
@@ -192,7 +192,7 @@ export const vipMenu = [
       category: "Cream Liquor",
       drinks: [
           { id: 1, name: "AMARULA", price: "N15,000", image: "/amarula.png" },
-        { id: 0, name: "BAILEYS", price: "N25,000", image: "/bail.jpeg" },
+        { id: 0, name: "BAILEYS", price: "N20,000", image: "/bail.jpeg" },
         { id: 2, name: "BEST CREAM", price: "N2,500", image: "/smalbes.webp" }
       ]
     },
