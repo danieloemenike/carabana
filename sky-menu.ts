@@ -30,6 +30,7 @@ export const skyMenu = [
           { id: 7, name: "REMY MARTINS XO", price: "N450,000", image: "/rmxo.jpeg" },
           { id: 8, name: "REMY MARTINS VSOP", price: "N100,000", image: "/rmvs.png" },
           { id: 9, name: "REMY MARTINS 1738", price: "N150,000", image: "/rmmartins.jpeg" },
+             { id: 10, name: "MEUKOW VS", price: "100,000", image: "/meukowvs.webp" },
         
         ]
     },
