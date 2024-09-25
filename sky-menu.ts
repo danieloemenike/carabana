@@ -54,6 +54,10 @@ export const skyMenu = [
             { id: 15, name: "JAMESON BLACK BARREL", price: "N60,000", image: "/jbb.jpeg" },
           { id: 16, name: "MONKEY SHOULDER", price: "N40,000", image: "/mshh.jpeg" },
           { id: 17, name: "JACK DANIELS", price: "N35,000", image: "/jackdaniels.jpeg" },
+                { id: 20, name: "OBSERVATORY 20YRS", price: "N150,000", image: "/observatory-20y.jpg" },
+            { id: 21, name: "BALVENIE", price: "120,000", image: "/balvenie.jpeg" },
+            { id: 22, name: "GENTLEMAN JACK", price: "100,000", image: "/GentlemanJack.webp" },
+            { id: 23, name: "SINGLE BARREL JD", price: "150,000", image: "/singlebarrel.jpg" },
         ]
       },
 
