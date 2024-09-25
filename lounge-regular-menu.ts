@@ -30,9 +30,8 @@ export const regularMenu = [
           { id: 7, name: "REMY MARTINS XO", price: "N450,000", image: "/rmxo.jpeg" },
           { id: 8, name: "REMY MARTINS VSOP", price: "N100,000", image: "/rmvs.png" },
           { id: 9, name: "REMY MARTINS 1738", price: "N150,000", image: "/rmmartins.jpeg" },
-          { id: 10, name: "CHIVAS 25 YEARS", price: "N250,000", image: "/chivas25years.webp" },
-        
-        ]
+           { id: 10, name: "MEUKOW VS", price: "100,000", image: "/meukowvs.webp" },
+         ]
     },
     {
         id: 2,
@@ -57,6 +56,7 @@ export const regularMenu = [
           { id: 17, name: "JACK DANIELS", price: "N35,000", image: "/jackdaniels.jpeg" },
           { id: 18, name: "CHIVAS REGAL 18 YEARS", price: "N120,000", image: "/chivas18.jpg" },
           { id: 19, name: "CHIVAS XV 15 YEARS", price: "N90,000", image: "/chivasxv15.jpeg" },
+            { id: 10, name: "CHIVAS 25 YEARS", price: "N250,000", image: "/chivas25years.webp" },
             { id: 20, name: "OBSERVATORY 20YRS", price: "N150,000", image: "/observatory-20y.jpg" },
         ]
       },
