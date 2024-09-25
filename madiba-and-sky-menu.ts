@@ -57,6 +57,7 @@ export const Madiba_Sky_Menu = [
           { id: 21, name: "CHIVAS 25 YEARS", price: "N250,000", image: "/chivas25years.webp" },
           { id: 18, name: "CHIVAS REGAL 18 YEARS", price: "N120,000", image: "/chivas18.jpg" },
           { id: 19, name: "CHIVAS XV 15 YEARS", price: "N90,000", image: "/chivasxv15.jpeg" },
+            { id: 20, name: "OBSERVATORY 20YRS", price: "N150,000", image: "/observatory-20y.jpg" },
         ]
       },
 
