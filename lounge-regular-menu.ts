@@ -159,6 +159,8 @@ export const regularMenu = [
           { id: 9, name: "ODOGWU HAMMER", price: "N2,000", image: "/hammer.webp" },//CHECK
           { id: 10, name: "1960 BITTERS", price: "N1,500", image: "/1960roots.webp" },//CHECK
           { id: 11, name: "DE GENERAL", price: "N2,000", image: "/degeneral.webp" },
+            { id: 11, name: "CONFAM BITTERS", price: "1,500", image: "/Confambitters.jpg" },
+                { id: 12, name: "BABAKI", price: "3,500", image: "/babaki.jpeg" },  
         ]
     },
       
