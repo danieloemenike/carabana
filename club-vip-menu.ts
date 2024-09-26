@@ -82,6 +82,10 @@ export const vipMenu = [
         { id: 11, name: "ALABASTA WINE", price: "N15,000", image: "/alabaster.jpeg" },
         { id: 12, name: "CRONIER WINE", price: "N15,000", image: "/cron.webp" },
         { id: 14, name: "GUCCI WINE", price: "N15,000", image: "/gucciwine.jpg" },
+          { id: 15, name: "BELENA MOSCATO", price: "50,000", image: "/be
+              { id: 16, name: "BELENA SHIRAZ", price: "50,000", image: 
+               { id: 17, name: "VELETA WINE", price: "10,000", image:
+                { id: 18, name: "MIRACLE WINE", price: "15,000", image:
         
       ]
     },
@@ -135,6 +139,7 @@ export const vipMenu = [
             { id: 12, name: "BIG HOLLANDIA", price: "N2,500", image: "/hy.jpeg" },
             { id: 13, name: "SMALL HOLLANDIA", price: "N700", image: "/hy.jpeg" },
             { id: 14, name: "ICE TEA BIG", price: "N1,500", image: "/icedtea.jpeg" },
+            { id: 15, name: "ZOBO", price: "1,500", image: "/
         //   { id: 0, name: "WATER", price: "N500", image: "/wt.png" },
          
         //   { id: 2, name: "MALT", price: "N700", image: "/malt.png" },
@@ -157,6 +162,8 @@ export const vipMenu = [
           { id: 9, name: "ODOGWU HAMMER", price: "N2,000", image: "/hammer.webp" },//CHECK
           { id: 10, name: "1960 BITTERS", price: "N1,500", image: "/1960roots.webp" },//CHECK
           { id: 11, name: "EROKO BITTERS", price: "N1,000", image: "/eroko.png" },
+            { id: 12, name: "CONFAM BITTERS", price: "1,500", image: "/
+                { id: 13, name: "BABAKI", price: "3,500", image: "/
         ]
     },
       
@@ -198,7 +205,9 @@ export const vipMenu = [
       drinks: [
           { id: 1, name: "AMARULA", price: "N15,000", image: "/amarula.png" },
         { id: 0, name: "BAILEYS", price: "N20,000", image: "/bail.jpeg" },
-        { id: 2, name: "BEST CREAM", price: "N2,500", image: "/smalbes.webp" }
+        { id: 2, name: "BEST CREAM", price: "N2,500", image: "/smalbes.webp" },
+          { id: 3, name: "DEROK CAFE", price: "N2,000", image: "/
+              { id: 4, name: "IVORY CREAM", price: "N2,000", image: "/
       ]
     },
     {
@@ -218,7 +227,7 @@ export const vipMenu = [
           { id: 1, name: "BENSON CORE", price: "N1,200", image: "/bens.jpeg" },
           { id: 2, name: "BENSON SWITCH", price: "N1,500", image: "/benswi.jpeg" },
           { id: 3, name: "DUNHILL SWITCH", price: "N1,700", image: "/dhsw.webp" },
-        
+          { id: 4, name: " ROTHMANNS", price: "N1,000", image: "/
       ]
     },
 
