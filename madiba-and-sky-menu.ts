@@ -162,6 +162,8 @@ export const Madiba_Sky_Menu = [
           // { id: 11, name: "DE GENERAL", price: "N2,000", image: "/degeneral.webp" },
           { id: 11, name: "EROKO BITTERS", price: "N1,000", image: "/eroko.png" },
           { id: 12, name: "ACTION BITTERS", price: "N1,500", image: "/actb.jpg" },
+             { id: 12, name: "CONFAM BITTERS", price: "1,500", image: "/Confambitters.jpg" },
+                { id: 13, name: "BABAKI", price: "3,500", image: "/babaki.jpeg" },
         ]
     },
       
