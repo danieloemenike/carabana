@@ -162,7 +162,7 @@ export const vipMenu = [
           { id: 9, name: "ODOGWU HAMMER", price: "N2,000", image: "/hammer.webp" },//CHECK
           { id: 10, name: "1960 BITTERS", price: "N1,500", image: "/1960roots.webp" },//CHECK
           { id: 11, name: "EROKO BITTERS", price: "N1,000", image: "/eroko.png" },
-            { id: 12, name: "CONFAM BITTERS", price: "1,500", image: "/
+            { id: 12, name: "CONFAM BITTERS", price: "1,500", image: "/Confambitters.jpg" },
                 { id: 13, name: "BABAKI", price: "3,500", image: "/
         ]
     },
