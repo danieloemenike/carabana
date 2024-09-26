@@ -198,7 +198,9 @@ export const skyMenu = [
       drinks: [
           { id: 1, name: "AMARULA", price: "N15,000", image: "/amarula.png" },
         { id: 0, name: "BAILEYS", price: "N20,000", image: "/bail.jpeg" },
-        { id: 2, name: "BEST CREAM", price: "N3,000", image: "/smalbes.webp" }
+        { id: 2, name: "BEST CREAM", price: "N3,000", image: "/smalbes.webp" },
+           { id: 3, name: "DEROK CAFE", price: "N2,000", image: "/derokcafe.jpg" },
+              { id: 4, name: "IVORY CREAM", price: "N2,000", image: "/ivorycream.jpeg" },  
       ]
     },
     {
