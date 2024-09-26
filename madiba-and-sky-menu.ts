@@ -207,6 +207,8 @@ export const Madiba_Sky_Menu = [
         { id: 0, name: "BAILEYS", price: "N20,000", image: "/bail.jpeg" },
         { id: 2, name: "BEST CREAM", price: "N3,000", image: "/smalbes.webp" },
         { id: 3, name: "SUNSET ROSE SEMI-SWEET WINE", price: "N20,000", image: "/sunsetrose.jpeg" },
+         { id: 4, name: "DEROK CAFE", price: "N2,000", image: "/derokcafe.jpg" },
+              { id: 5, name: "IVORY CREAM", price: "N2,000", image: "/ivorycream.jpeg" },    
       ]
     },
     {
