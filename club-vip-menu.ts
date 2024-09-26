@@ -207,7 +207,7 @@ export const vipMenu = [
         { id: 0, name: "BAILEYS", price: "N20,000", image: "/bail.jpeg" },
         { id: 2, name: "BEST CREAM", price: "N2,500", image: "/smalbes.webp" },
           { id: 3, name: "DEROK CAFE", price: "N2,000", image: "/derokcafe.jpg" },
-              { id: 4, name: "IVORY CREAM", price: "N2,000", image: "/
+              { id: 4, name: "IVORY CREAM", price: "N2,000", image: "/ivorycream.jpeg" }
       ]
     },
     {
