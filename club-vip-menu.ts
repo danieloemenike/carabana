@@ -139,7 +139,7 @@ export const vipMenu = [
             { id: 12, name: "BIG HOLLANDIA", price: "N2,500", image: "/hy.jpeg" },
             { id: 13, name: "SMALL HOLLANDIA", price: "N700", image: "/hy.jpeg" },
             { id: 14, name: "ICE TEA BIG", price: "N1,500", image: "/icedtea.jpeg" },
-            { id: 15, name: "ZOBO", price: "1,500", image: "/
+            { id: 15, name: "ZOBO", price: "1,500", image: "" }
         //   { id: 0, name: "WATER", price: "N500", image: "/wt.png" },
          
         //   { id: 2, name: "MALT", price: "N700", image: "/malt.png" },
@@ -227,7 +227,7 @@ export const vipMenu = [
           { id: 1, name: "BENSON CORE", price: "N1,200", image: "/bens.jpeg" },
           { id: 2, name: "BENSON SWITCH", price: "N1,500", image: "/benswi.jpeg" },
           { id: 3, name: "DUNHILL SWITCH", price: "N1,700", image: "/dhsw.webp" },
-          { id: 4, name: " ROTHMANNS", price: "N1,000", image: "/
+          { id: 4, name: " ROTHMANNS", price: "N1,000", image: "/"}
       ]
     },
 
