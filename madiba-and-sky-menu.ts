@@ -99,7 +99,7 @@ export const Madiba_Sky_Menu = [
         { id: 3, name: "DOM PERIGNON", price: "N750,000", image: "/domcha.jpeg" },
         { id: 4, name: "MOET ROSE", price: "N200,000", image: "/moetrose.jpeg" },   
         { id: 5, name: "MOET ICE", price: "N250,000", image: "/moetice.jpeg" },   
-        { id: 6, name: "VEUVE CLIEQUOT", price: "N200,000", image: "/veu.webp" },
+        { id: 6, name: "VEUVE CLIQUOT", price: "N200,000", image: "/veu.webp" },
         { id: 7, name: "BELAIRE ROSE", price: "N120,000", image: "/blr.jpeg" },
         { id: 8, name: "BELAIRE LUX", price: "N120,000", image: "/belue.webp" },
         { id: 9, name: "BELAIRE LUX FANTOME", price: "N120,000", image: "/beluxe.png" },
@@ -227,8 +227,7 @@ export const Madiba_Sky_Menu = [
           { id: 1, name: "BENSON CORE", price: "N1,200", image: "/bens.jpeg" },
           { id: 2, name: "BENSON SWITCH", price: "N1,500", image: "/benswi.jpeg" },
         { id: 3, name: "DUNHILL SWITCH", price: "N1,700", image: "/dhsw.webp" },
-        { id: 4, name: "LIGHTER", price: "N500", image: "/lighter.png" },
-        
+        { id: 4, name: "LIGHTER", price: "N500", image: "/lighter.png" },     
       ]
     },
 
