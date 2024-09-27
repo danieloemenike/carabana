@@ -225,6 +225,7 @@ export const regularMenu = [
           { id: 2, name: "BENSON SWITCH", price: "N1,500", image: "/benswi.jpeg" },
           { id: 3, name: "DUNHILL SWITCH", price: "N1,700", image: "/dhsw.webp" },
           { id: 4, name: "LIGHTER", price: "N500", image: "/lighter.png" },
+          { id: 5, name: "ROTHMANNS", price: "N1,000", image: "/rothmanns.jpeg" }
           
         
       ]
