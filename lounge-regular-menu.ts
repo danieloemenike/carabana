@@ -14,8 +14,7 @@ export const regularMenu = [
           { id: 8, name: "CASA MAESTRI", price: "N250,000", image: "/casaa.webp" },
           { id: 9, name: "CASAMIGOS WHITE", price: "N250,000", image: "/casawh.webp" },
           { id: 10, name: "CASAMIGOS GOLD", price: "N250,000", image: "/casagd.jpeg" },
-           { id: 11, name: "CONFAM BITTERS", price: "1,500", image: "/Confambitters.jpg" },
-                { id: 12, name: "BABAKI", price: "3,500", image: "/babaki.jpeg" },  
+        
         ]
     },
     {
@@ -226,6 +225,7 @@ export const regularMenu = [
           { id: 2, name: "BENSON SWITCH", price: "N1,500", image: "/benswi.jpeg" },
           { id: 3, name: "DUNHILL SWITCH", price: "N1,700", image: "/dhsw.webp" },
           { id: 4, name: "LIGHTER", price: "N500", image: "/lighter.png" },
+          
         
       ]
     },
