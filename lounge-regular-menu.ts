@@ -7,13 +7,13 @@ export const regularMenu = [
           { id: 1, name: "AZUL CLASE", price: "N500,000", image: "/azulclase.webp" },
           { id: 2, name: "DON JULIO", price: "N500,000", image: "/donju.png" },
           { id: 3, name: "VOLCAN XA", price: "N450,000", image: "/volxa.png" }, 
-          { id: 4, name: "VOLCAN WHITE", price: "N100,000", image: "/volwhite.webp" },
-          { id: 5, name: "VOLCAN GOLD", price: "N120,000", image: "/volgold.webp" },
+          { id: 4, name: "VOLCAN WHITE", price: "N200,000", image: "/volwhite.webp" },
+          { id: 5, name: "VOLCAN GOLD", price: "N200,000", image: "/volgold.webp" },
           { id: 6, name: "SIERRA TEQUILA", price: "N40,000", image: "/st.webp" }, 
           { id: 7, name: "OLMECA TEQUILA", price: "N70,000", image: "/otqq.webp" },
           { id: 8, name: "CASA MAESTRI", price: "N250,000", image: "/casaa.webp" },
-          { id: 9, name: "CASAMIGOS WHITE", price: "N250,000", image: "/casawh.webp" },
-          { id: 10, name: "CASAMIGOS GOLD", price: "N250,000", image: "/casagd.jpeg" },
+          { id: 9, name: "CASAMIGOS WHITE", price: "N280,000", image: "/casawh.webp" },
+          { id: 10, name: "CASAMIGOS GOLD", price: "N280,000", image: "/casagd.jpeg" },
         
         ]
     },
@@ -29,8 +29,8 @@ export const regularMenu = [
           { id: 5, name: "MARTELL BLUESWIFT", price: "N150,000", image: "/mtswift.png" },
           { id: 6, name: "MARTELL VS", price: "N80,000", image: "/martk.png" }, 
           { id: 7, name: "REMY MARTINS XO", price: "N450,000", image: "/rmxo.jpeg" },
-          { id: 8, name: "REMY MARTINS VSOP", price: "N100,000", image: "/rmvs.png" },
-          { id: 9, name: "REMY MARTINS 1738", price: "N150,000", image: "/rmmartins.jpeg" },
+          { id: 8, name: "REMY MARTINS VSOP", price: "N120,000", image: "/rmvs.png" },
+          { id: 9, name: "REMY MARTINS 1738", price: "N180,000", image: "/rmmartins.jpeg" },
            { id: 10, name: "MEUKOW VS", price: "100,000", image: "/meukowvs.webp" },
          ]
     },
