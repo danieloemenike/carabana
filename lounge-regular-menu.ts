@@ -124,7 +124,7 @@ export const regularMenu = [
         id: 6,
         category: "Soft Drink / Mixers",
         drinks: [
-            { id: 1, name: "COKE", price: "N500", image: "/coke.png" },
+            { id: 1, name: "COKE", price: "N1,000", image: "/coke.png" },
             { id: 2, name: "SPRITE", price: "N500", image: "/sprite.jpeg" },
             { id: 3, name: "SCHWEPPES", price: "N500", image: "/schw.avif" },
             { id: 4, name: "FAYROUZ", price: "N700", image: "/fayrouz-pet-x12.jpg" },
