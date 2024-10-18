@@ -48,7 +48,7 @@ export const vipMenu = [
             { id: 7, name: "GLENMORANGIE SIGNET", price: "N550,000", image: "/glsign.jpeg" },
             { id: 8, name: "NECTAR D'OR", price: "N120,000", image: "/glnec.png" },
             { id: 9, name: "BLUE LABEL", price: "N450,000", image: "/bll.jpg" },
-            { id: 10, name: "BLACK LABEL", price: "N40,000", image: "/bl.jpeg" },
+            { id: 10, name: "BLACK LABEL", price: "N45,000", image: "/bl.jpeg" },
             { id: 11, name: "RED LABEL", price: "N25,000", image: "/rl.jpeg" },
             { id: 12, name: "GOLD LABEL", price: "N70,000", image: "/gl.webp" },
             { id: 13, name: "AMERICAN HONEY", price: "N40,000", image: "/amh.png" }, 
