@@ -187,7 +187,7 @@ export const regularMenu = [
             { id: 18, name: "LEGEND", price: "N1,500", image: "/legend.jpeg" },
             { id: 19, name: "ODOGWU BITTERS", price: "N2,000", image: "/odbit.jpeg" },
             { id: 20, name: "BUDWEISER", price: "N1,500", image: "/budbig.avif" },
-            { id: 21, name: "WATER", price: "N300", image: "/wt.png" },
+            { id: 21, name: "WATER", price: "N500", image: "/wt.png" },
             { id: 22, name: "SMIRNOFF ICE DOUBLE BLACK", price: "N1200", image: "/dbice.jpeg" }, 
           { id: 23, name: "FLYING FISH", price: "N1,000", image: "/ff.jpeg" },
           { id: 24, name: "CASTLE LITE", price: "N1,200", image: "/lite.webp" },
