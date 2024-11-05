@@ -116,7 +116,7 @@ export const Madiba_Sky_Menu = [
         { id: 4, name: "ABSOLUT VODKA", price: "N20,000", image: "/absvod.webp" },
         { id: 5, name: "BIG MAGIC MOMENT", price: "N15,000", image: "/bmm.webp" },
         { id: 6, name: "WILLIAMS LAWSON", price: "N25,000", image: "/wll.jpg" },
-        { id: 7, name: "SMIRNOFF X1 SMALL", price: "N3,500", image: "/smvodk.jpeg" },
+        { id: 7, name: "SMIRNOFF X1 SMALL", price: "N3,550", image: "/smvodk.jpeg" },
      
       ]
     },
@@ -124,22 +124,22 @@ export const Madiba_Sky_Menu = [
         id: 6,
         category: "Soft Drink / Mixers",
         drinks: [
-            { id: 1, name: "COKE", price: "N1,000", image: "/coke.png" },
-            { id: 2, name: "SPRITE", price: "N500", image: "/sprite.jpeg" },
-            { id: 3, name: "SCHWEPPES", price: "N500", image: "/schw.avif" },
-            { id: 4, name: "FAYROUZ", price: "N800", image: "/fayrouz-pet-x12.jpg" },
-            { id: 5, name: "MALTA GUINNESS", price: "N900", image: "/mltg.jpeg" },
-            { id: 6, name: "AMSTEL MALTA ", price: "N900", image: "/amsmalt.png" },
+            { id: 1, name: "COKE", price: "N1,050", image: "/coke.png" },
+            { id: 2, name: "SPRITE", price: "N1,050", image: "/sprite.jpeg" },
+            { id: 3, name: "SCHWEPPES", price: "N1,050", image: "/schw.avif" },
+            { id: 4, name: "FAYROUZ", price: "N850", image: "/fayrouz-pet-x12.jpg" },
+            { id: 5, name: "MALTA GUINNESS", price: "N950", image: "/mltg.jpeg" },
+            { id: 6, name: "AMSTEL MALTA ", price: "N950", image: "/amsmalt.png" },
             { id: 7, name: "HANGOVER TEA ", price: "N1,000", image: "/hgov.jpeg" },
-            { id: 8, name: "REDBULL", price: "N2000", image: "/redbull.jpeg" },//CHECK
-            { id: 9, name: "BIG CHIVITA", price: "N2,000", image: "/chibig.jpeg" },//CHECK
-            { id: 10, name: "SMALL CHIVITA", price: "N700", image: "/chismall.jpeg" },//CHECK
-            { id: 11, name: "CRANBERRY", price: "N7,000", image: "/stute.png" },
-            { id: 12, name: "BIG HOLLANDIA", price: "N2,500", image: "/hy.jpeg" },
-            { id: 13, name: "SMALL HOLLANDIA", price: "N700", image: "/hy.jpeg" },
-          { id: 14, name: "ICE TEA BIG", price: "N1,700", image: "/icedtea.jpeg" },
-          { id: 15, name: "TEEZERS", price: "N1,500", image: "/teezers.jpeg" },
-          { id: 16, name: "ZOBO", price: "N1,500", image: "/zobo.jpeg" },
+            { id: 8, name: "REDBULL", price: "N2050", image: "/redbull.jpeg" },//CHECK
+            { id: 9, name: "BIG CHIVITA", price: "N2,050", image: "/chibig.jpeg" },//CHECK
+            { id: 10, name: "SMALL CHIVITA", price: "N750", image: "/chismall.jpeg" },//CHECK
+            { id: 11, name: "CRANBERRY", price: "N7,050", image: "/stute.png" },
+            { id: 12, name: "BIG HOLLANDIA", price: "N2,550", image: "/hy.jpeg" },
+            { id: 13, name: "SMALL HOLLANDIA", price: "N750", image: "/hy.jpeg" },
+          { id: 14, name: "ICE TEA BIG", price: "N1,750", image: "/icedtea.jpeg" },
+          { id: 15, name: "TEEZERS", price: "N1,550", image: "/teezers.jpeg" },
+          { id: 16, name: "ZOBO", price: "N1,550", image: "/zobo.jpeg" },
             
         ]
     },
@@ -153,16 +153,16 @@ export const Madiba_Sky_Menu = [
             { id: 3, name: "SMALL CAMPARI", price: "N5,000", image: "/smallca.webp" },
              { id: 4, name: "GORDONS GIN", price: "N10,000", image: "/gord.jpeg" },//CHECK
             { id: 5, name: "JAGERMEISTER", price: "N30,000", image: "/jarge.webp" },//CHECK
-            { id: 6, name: "BULLET", price: "N3,000", image: "/bbul.jpeg" },//CHECK
-            { id: 7, name: "PLASTIC ORIJIN", price: "N2,500", image: "/orbit.avif" },//CHECK
-          { id: 8, name: "ODOGWU BITTERS", price: "N2,500", image: "/odbit.jpeg" },
-          { id: 9, name: "ODOGWU HAMMER", price: "N2,000", image: "/hammer.webp" },//CHECK
-          { id: 10, name: "1960 BITTERS", price: "N1,500", image: "/1960roots.webp" },//CHECK
-          // { id: 11, name: "DE GENERAL", price: "N2,000", image: "/degeneral.webp" },
-          { id: 11, name: "EROKO BITTERS", price: "N1,000", image: "/eroko.png" },
-          { id: 12, name: "ACTION BITTERS", price: "N1,500", image: "/actb.jpg" },
-             { id: 12, name: "CONFAM BITTERS", price: "1,500", image: "/Confambitters.jpg" },
-                { id: 13, name: "BABAKI", price: "3,500", image: "/babaki.jpeg" },
+            { id: 6, name: "BULLET", price: "N3,050", image: "/bbul.jpeg" },//CHECK
+            { id: 7, name: "PLASTIC ORIJIN", price: "N2,550", image: "/orbit.avif" },//CHECK
+          { id: 8, name: "ODOGWU BITTERS", price: "N2,550", image: "/odbit.jpeg" },
+          { id: 9, name: "ODOGWU HAMMER", price: "N2,050", image: "/hammer.webp" },//CHECK
+          { id: 10, name: "1960 BITTERS", price: "N1,550", image: "/1960roots.webp" },//CHECK
+          // { id: 11, name: "DE GENERAL", price: "N2,050", image: "/degeneral.webp" },
+          { id: 11, name: "EROKO BITTERS", price: "N1,050", image: "/eroko.png" },
+          { id: 12, name: "ACTION BITTERS", price: "N1,550", image: "/actb.jpg" },
+             { id: 12, name: "CONFAM BITTERS", price: "1,550", image: "/Confambitters.jpg" },
+                { id: 13, name: "BABAKI", price: "3,550", image: "/babaki.jpeg" },
         ]
     },
       
@@ -170,30 +170,30 @@ export const Madiba_Sky_Menu = [
         id: 8,
         category: "Beers",
         drinks: [
-            { id: 1, name: "DESPERADO", price: "N1,500", image: "/desp.jpg" },
-            { id: 2, name: "BIG STOUT", price: "N1,700", image: "/bigstout.webp" },
-            { id: 3, name: "HEINEKEN", price: "N1,700", image: "/hein.jpg" },
-            { id: 4, name: "BIG ORIJIN", price: "N1,700", image: "/Orijin-Beer.webp" },
-            { id: 5, name: "TIGER", price: "N1,200", image: "/tiger.jpeg" },
-            { id: 6, name: "SMALL STOUT", price: "N1,200", image: "/Stout.jpg" },
-            { id: 7, name: "GOLDBERG", price: "N1,500", image: "/gold.jpeg" },
-            { id: 8, name: "GULDER", price: "N1,500", image: "/guld.jpeg" },
-            { id: 9, name: "33 EXPORT", price: "N1,500", image: "/33-bottle.jpg" },
-            { id: 10, name: "STAR", price: "N1,500", image: "/star.jpeg" },
-            { id: 11, name: "LIFE", price: "N1,500", image: "/life.jpeg" },
-            { id: 12, name: "TROPHY", price: "N1,500", image: "/trophy.webp" },
-            { id: 13, name: "TROPHY STOUT", price: "N1,500", image: "/tstout.png" },
-            { id: 14, name: "HERO", price: "N1,500", image: "/hero2.jpeg" },
-            { id: 15, name: "STAR RADLER", price: "N1,200", image: "/st.jpg" },
-            { id: 16, name: "SMIRNOFF ICE", price: "N1,200", image: "/smsm.jpeg" },
-            { id: 17, name: "GUINESS EXTRA SMOOTH", price: "N1,200", image: "/gs.jpg" },
-            { id: 18, name: "LEGEND", price: "N1,700", image: "/legend.jpeg" },
-            { id: 19, name: "ODOGWU BITTERS", price: "N2,500", image: "/odbit.jpeg" },
-            { id: 20, name: "BUDWEISER", price: "N1,700", image: "/budbig.avif" },
-            { id: 21, name: "WATER", price: "N500", image: "/wt.png" },
-            { id: 22, name: "SMIRNOFF ICE DOUBLE BLACK CAN", price: "N1500", image: "/dbice.jpeg" }, 
-          { id: 23, name: "FLYING FISH", price: "N1,200", image: "/ff.jpeg" },
-          { id: 24, name: "CASTLE LITE", price: "N1,500", image: "/lite.webp" },
+            { id: 1, name: "DESPERADO", price: "N1,550", image: "/desp.jpg" },
+            { id: 2, name: "BIG STOUT", price: "N1,750", image: "/bigstout.webp" },
+            { id: 3, name: "HEINEKEN", price: "N1,750", image: "/hein.jpg" },
+            { id: 4, name: "BIG ORIJIN", price: "N1,750", image: "/Orijin-Beer.webp" },
+            { id: 5, name: "TIGER", price: "N1,250", image: "/tiger.jpeg" },
+            { id: 6, name: "SMALL STOUT", price: "N1,250", image: "/Stout.jpg" },
+            { id: 7, name: "GOLDBERG", price: "N1,550", image: "/gold.jpeg" },
+            { id: 8, name: "GULDER", price: "N1,550", image: "/guld.jpeg" },
+            { id: 9, name: "33 EXPORT", price: "N1,550", image: "/33-bottle.jpg" },
+            { id: 10, name: "STAR", price: "N1,550", image: "/star.jpeg" },
+            { id: 11, name: "LIFE", price: "N1,550", image: "/life.jpeg" },
+            { id: 12, name: "TROPHY", price: "N1,550", image: "/trophy.webp" },
+            { id: 13, name: "TROPHY STOUT", price: "N1,550", image: "/tstout.png" },
+            { id: 14, name: "HERO", price: "N1,550", image: "/hero2.jpeg" },
+            { id: 15, name: "STAR RADLER", price: "N1,250", image: "/st.jpg" },
+            { id: 16, name: "SMIRNOFF ICE", price: "N1,250", image: "/smsm.jpeg" },
+            { id: 17, name: "GUINESS EXTRA SMOOTH", price: "N1,5", image: "/gs.jpg" },
+            { id: 18, name: "LEGEND", price: "N1,750", image: "/legend.jpeg" },
+            { id: 19, name: "ODOGWU BITTERS", price: "N2,550", image: "/odbit.jpeg" },
+            { id: 20, name: "BUDWEISER", price: "N1,750", image: "/budbig.avif" },
+            { id: 21, name: "WATER", price: "N550", image: "/wt.png" },
+            { id: 22, name: "SMIRNOFF ICE DOUBLE BLACK CAN", price: "N1550", image: "/dbice.jpeg" }, 
+          { id: 23, name: "FLYING FISH", price: "N1,250", image: "/ff.jpeg" },
+          { id: 24, name: "CASTLE LITE", price: "N1,550", image: "/lite.webp" },
         ]
     },
       
@@ -204,10 +204,10 @@ export const Madiba_Sky_Menu = [
       drinks: [
           { id: 1, name: "AMARULA", price: "N15,000", image: "/amarula.png" },
         { id: 0, name: "BAILEYS", price: "N20,000", image: "/bail.jpeg" },
-        { id: 2, name: "BEST CREAM", price: "N3,000", image: "/smalbes.webp" },
+        { id: 2, name: "BEST CREAM", price: "N3,050", image: "/smalbes.webp" },
         { id: 3, name: "SUNSET ROSE SEMI-SWEET WINE", price: "N20,000", image: "/sunsetrose.jpeg" },
-         { id: 4, name: "DEROK CAFE", price: "N2,000", image: "/derokcafe.jpg" },
-              { id: 5, name: "IVORY CREAM", price: "N2,000", image: "/ivorycream.jpeg" },    
+         { id: 4, name: "DEROK CAFE", price: "N2,050", image: "/derokcafe.jpg" },
+              { id: 5, name: "IVORY CREAM", price: "N2,050", image: "/ivorycream.jpeg" },    
       ]
     },
     {
