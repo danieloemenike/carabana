@@ -128,8 +128,8 @@ export const regularMenu = [
             { id: 2, name: "SPRITE", price: "N1,050", image: "/sprite.jpeg" },
             { id: 3, name: "SCHWEPPES", price: "N1,050", image: "/schw.avif" },
             { id: 4, name: "FAYROUZ", price: "N750", image: "/fayrouz-pet-x12.jpg" },
-            { id: 5, name: "MALTA GUINNESS", price: "N1050", image: "/mltg.jpeg" },
-            { id: 6, name: "AMSTEL MALTA ", price: "N950", image: "/amsmalt.png" },
+            { id: 5, name: "MALTA GUINNESS", price: "N1,050", image: "/mltg.jpeg" },
+            { id: 6, name: "AMSTEL MALTA ", price: "N1,050", image: "/amsmalt.png" },
             { id: 7, name: "HANGOVER TEA ", price: "N1,000", image: "/hgov.jpeg" },
             { id: 8, name: "REDBULL", price: "N2050", image: "/redbull.jpeg" },//CHECK
             { id: 9, name: "BIG CHIVITA", price: "N2,050", image: "/chibig.jpeg" },//CHECK
