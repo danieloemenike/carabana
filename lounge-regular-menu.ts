@@ -47,7 +47,7 @@ export const regularMenu = [
             { id: 7, name: "GLENMORANGIE SIGNET", price: "N550,000", image: "/glsign.jpeg" },
             { id: 8, name: "NECTAR D'OR", price: "N120,000", image: "/glnec.png" },
             { id: 9, name: "BLUE LABEL", price: "N450,000", image: "/bll.jpg" },
-            { id: 10, name: "BLACK LABEL", price: "N45,000", image: "/bl.jpeg" },
+            { id: 10, name: "BLACK LABEL", price: "N55,000", image: "/bl.jpeg" },
             { id: 11, name: "RED LABEL", price: "N25,000", image: "/rl.jpeg" },
             { id: 12, name: "GOLD LABEL", price: "N70,000", image: "/gl.webp" },
             { id: 13, name: "AMERICAN HONEY", price: "N40,000", image: "/amh.png" }, 
@@ -128,7 +128,7 @@ export const regularMenu = [
             { id: 2, name: "SPRITE", price: "N1,050", image: "/sprite.jpeg" },
             { id: 3, name: "SCHWEPPES", price: "N1,050", image: "/schw.avif" },
             { id: 4, name: "FAYROUZ", price: "N750", image: "/fayrouz-pet-x12.jpg" },
-            { id: 5, name: "MALTA GUINNESS", price: "N950", image: "/mltg.jpeg" },
+            { id: 5, name: "MALTA GUINNESS", price: "N1050", image: "/mltg.jpeg" },
             { id: 6, name: "AMSTEL MALTA ", price: "N950", image: "/amsmalt.png" },
             { id: 7, name: "HANGOVER TEA ", price: "N1,000", image: "/hgov.jpeg" },
             { id: 8, name: "REDBULL", price: "N2050", image: "/redbull.jpeg" },//CHECK
