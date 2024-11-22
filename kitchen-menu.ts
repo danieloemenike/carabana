@@ -73,12 +73,12 @@ export const kitchenMenu = [
         { id: 3, name: "WHEAT", price: "N800", image: "/wheat.jpeg" },
         { id: 4, name: "GARRI", price: "N1,000", image: "/garri.jpeg" },   
         { id: 5, name: "POUNDED YAM", price: "N2,500", image: "/pounded-yam.jpeg" },   
-        { id: 6, name: "VEGETABLE SOUP", price: "N1,500", image: "/vegetable_soup_recipe.webp" },
+        { id: 6, name: "VEGETABLE SOUP", price: "N1,200", image: "/vegetable_soup_recipe.webp" },
         { id: 7, name: "OKRO SOUP", price: "N1,500", image: "/okro-soup.jpeg" },
         { id: 8, name: "OGBONO SOUP", price: "N2,000", image: "/ogbono.jpeg" },
         { id: 9, name: "AFANG SOUP", price: "N2,000", image: "/afangsoup.jpeg" },
         { id: 10, name: "BANGA SOUP", price: "N2,000", image: "/banga-soup.jpeg" },
-        { id: 11, name: "EGUSI SOUP", price: "N1,200", image: "/egusisoup.jpeg" },
+        { id: 11, name: "EGUSI SOUP", price: "N1,500", image: "/egusisoup.jpeg" },
       ]
     },
 
