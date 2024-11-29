@@ -6,6 +6,7 @@ export const kitchenMenu = [
           { id: 0, name: "NKWOBI", price: "N3,000", image: "/nkwobi.jpeg" },
           { id: 1, name: "ISI-EWU(GOAT HEAD)", price: "N10,000", image: "/isiewu.jpeg" },
           { id: 2, name: "GOATMEAT PEPPERSOUP", price: "N4,000", image: "/goatmeat.jpeg" },
+            { id: 3, name: "ASSORTED GOATMEAT PEPPERSOUP", price: "5,000", image: "/Assorted-Goat-Meat-Peppersoup.jpg" },
           { id: 3, name: "ASSORTED PEPPERSOUP", price: "N6,000", image: "/assortedpp.jpeg" }, 
           { id: 4, name: "CHICKEN PEPPERSOUP", price: "N5,000", image: "/chickenpp.jpeg" },
           { id: 5, name: "TURKEY PEPPERSOUP", price: "N5,000", image: "/turkeypp.jpeg" },
