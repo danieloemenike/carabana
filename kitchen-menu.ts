@@ -53,7 +53,7 @@ export const kitchenMenu = [
           { id: 8, name: "THAI PINEAPPLE FRIED RICE", price: "5,500", image: "/Easy-Thai-Pineapple-Fried-Rice-recipe.jpg" },
         { id: 9, name: "NOODLES", price: "N1,700", image: "/noodless.jpeg" },
         { id: 10, name: "SPECIAL NOODLES & EGG", price: "N2,700", image: "/noodles.webp" },
-        { id: 10, name: "SPECIAL NOODLES(WITH SAUSAGE & SHRIMPS)", price: "N4,000", image: "/noodles.webp" },
+        { id: 10, name: "SPECIAL NOODLES(SAUSAGE & SHRIMPS)", price: "N4,000", image: "/noodles.webp" },
           { id: 11, name: "SINGAPORE NOODLES", price: "3,500", image: "/singapore noodles.jpg" },
         { id: 11, name: "SPAGHETTI (STIR FRY/ JOLLOF)", price: "N2,500", image: "/jollof-spaghetti.jpg" },
         { id: 12, name: "MACARONI (STIR FRY/JOLLOF)", price: "N2,500", image: "/macaroni.jpeg" },
