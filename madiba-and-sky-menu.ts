@@ -163,6 +163,8 @@ export const Madiba_Sky_Menu = [
           { id: 12, name: "ACTION BITTERS", price: "N2,050", image: "/actb.jpg" },
              { id: 12, name: "CONFAM BITTERS", price: "1,550", image: "/Confambitters.jpg" },
                 { id: 13, name: "BABAKI", price: "3,550", image: "/babaki.jpeg" },
+             { id: 14, name: "AMAPIANO BITTERS", price: "1,500", image: "/IMG-20241220-WA0020.jpg" },
+            { id: 15, name: "OJAPIANO BITTERS", price: "1,500", image: "/IMG-20241220-WA0021.jpg" },
         ]
     },
       
