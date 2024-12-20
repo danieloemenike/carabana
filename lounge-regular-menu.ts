@@ -160,7 +160,8 @@ export const regularMenu = [
           { id: 11, name: "DE GENERAL", price: "N2,550", image: "/degeneral.webp" },
             { id: 11, name: "CONFAM BITTERS", price: "1,550", image: "/Confambitters.jpg" },
                 { id: 12, name: "BABAKI", price: "3,550", image: "/babaki.jpeg" },
-            { id: 13, name: "AMAPIANO", price: "1,500", image: "/IMG-20241220-WA0020.jpg" },
+            { id: 13, name: "AMAPIANO BITTERS", price: "1,500", image: "/IMG-20241220-WA0020.jpg" },
+            { id: 14, name: "OJAPIANO BITTERS", price: "1,500", image: "/IMG-20241220-WA0021.jpg" },
         
         ]
     },
