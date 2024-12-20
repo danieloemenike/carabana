@@ -159,7 +159,9 @@ export const regularMenu = [
           { id: 10, name: "1960 BITTERS", price: "N1,850", image: "/1960roots.webp" },//CHECK
           { id: 11, name: "DE GENERAL", price: "N2,550", image: "/degeneral.webp" },
             { id: 11, name: "CONFAM BITTERS", price: "1,550", image: "/Confambitters.jpg" },
-                { id: 12, name: "BABAKI", price: "3,550", image: "/babaki.jpeg" },  
+                { id: 12, name: "BABAKI", price: "3,550", image: "/babaki.jpeg" },
+            { id: 13, name: "AMAPIANO", price: "1,500", image: "/IMG-20241220-WA0020.jpg" },
+        
         ]
     },
       
