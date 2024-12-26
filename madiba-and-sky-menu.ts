@@ -86,7 +86,7 @@ export const Madiba_Sky_Menu = [
         { id: 15, name: "BELENA MOSCATO", price: "50,000", image: "/belena moscato.jpeg" },
               { id: 16, name: "BELENA SHIRAZ", price: "50,000", image: "/belenashiraz.png" },
                { id: 17, name: "VELETA WINE", price: "10,000", image: "/veleta wine.webp" },
-                { id: 18, name: "MIRACLE WINE", price: "15,000", image: "/Miraclewine.jpg" },  
+                { id: 18, name: "MIRACLE WINE", price: "18,000", image: "/Miraclewine.jpg" },  
       ]
     },
   
