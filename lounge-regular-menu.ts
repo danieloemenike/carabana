@@ -193,7 +193,7 @@ export const regularMenu = [
             { id: 21, name: "WATER", price: "N550", image: "/wt.png" },
             { id: 22, name: "SMIRNOFF ICE DOUBLE BLACK", price: "N2,050", image: "/dbice.jpeg" }, 
           { id: 23, name: "FLYING FISH", price: "N1,250", image: "/ff.jpeg" },
-          { id: 24, name: "CASTLE LITE", price: "N1,250", image: "/lite.webp" },
+          { id: 24, name: "CASTLE LITE", price: "N1,550", image: "/lite.webp" },
         ]
     },
       
