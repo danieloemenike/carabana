@@ -3,9 +3,9 @@ export const skyMenu = [
         id: 0,
         category: "Tequilla",
         drinks: [
-          { id: 0, name: "AZUL BLACK MEZCAL", price: "N700,000", image: "/blavkazul.jpeg" },
+          { id: 0, name: "AZUL BLACK MEZCAL", price: "N1,200,000", image: "/blavkazul.jpeg" },
           { id: 1, name: "AZUL CLASE", price: "N500,000", image: "/azulclase.webp" },
-          { id: 2, name: "DON JULIO", price: "N500,000", image: "/donju.png" },
+          { id: 2, name: "DON JULIO", price: "N650,000", image: "/donju.png" },
           { id: 3, name: "VOLCAN XA", price: "N450,000", image: "/volxa.png" }, 
           { id: 4, name: "VOLCAN WHITE", price: "N100,000", image: "/volwhite.webp" },
           { id: 5, name: "VOLCAN GOLD", price: "N120,000", image: "/volgold.webp" },
@@ -91,7 +91,7 @@ export const skyMenu = [
       id: 4,
       category: "Champagne",
       drinks: [
-          { id: 1, name: "ACE OF SPADES", price: "N650,000", image: "/acesp.jpeg" },
+          { id: 1, name: "ACE OF SPADES", price: "N700,000", image: "/acesp.jpeg" },
           { id: 2, name: "CRISTAL CHAMPAGNE", price: "N700,000", image: "/cristal.jpeg" },
         { id: 3, name: "DOM PERIGNON", price: "N750,000", image: "/domcha.jpeg" },
         { id: 4, name: "MOET ROSE", price: "N200,000", image: "/moetrose.jpeg" },   
