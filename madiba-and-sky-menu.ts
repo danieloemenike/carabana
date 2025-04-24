@@ -38,7 +38,7 @@ export const Madiba_Sky_Menu = [
         id: 2,
         category: "Whiskey",
         drinks: [
-            { id: 1, name: "GLENFIDDICH (23 YEARS)", price: "N700,000", image: "/gd23.webp" }, 
+            { id: 1, name: "GLENFIDDICH (23 YEARS)", price: "N800,000", image: "/gd23.webp" }, 
             { id: 2, name: "GLENFIDDICH (21 YEARS)", price: "N550,000", image: "/gf21.jpeg" },
             { id: 3, name: "GLENFIDDICH (18 YEARS)", price: "N200,000", image: "/gf18.jpeg" },
             { id: 4, name: "GLENFIDDICH (15 YEARS)", price: "N140,000", image: "/gf15.jpeg" },
@@ -134,7 +134,7 @@ export const Madiba_Sky_Menu = [
             { id: 8, name: "REDBULL", price: "N2550", image: "/redbull.jpeg" },//CHECK
             { id: 9, name: "BIG CHIVITA", price: "N2,550", image: "/chibig.jpeg" },//CHECK
             { id: 10, name: "SMALL CHIVITA", price: "N850", image: "/chismall.jpeg" },//CHECK
-            { id: 11, name: "CRANBERRY", price: "N7,050", image: "/stute.png" },
+            { id: 11, name: "CRANBERRY", price: "N10,000", image: "/stute.png" },
             { id: 12, name: "BIG HOLLANDIA", price: "N3,050", image: "/hy.jpeg" },
             { id: 13, name: "SMALL HOLLANDIA", price: "N1,250", image: "/hy.jpeg" },
           { id: 14, name: "ICE TEA BIG", price: "N2,050", image: "/icedtea.jpeg" },
