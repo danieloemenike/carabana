@@ -155,6 +155,7 @@ export const Madiba_Sky_Menu = [
             { id: 5, name: "GORDONS GIN CAN", price: "2,000", image: "/gordons can.jpg" },
             { id: 5, name: "JAGERMEISTER", price: "N30,000", image: "/jarge.webp" },//CHECK
             { id: 6, name: "BULLET", price: "N4,050", image: "/bbul.jpeg" },//CHECK
+            { id: 6, name: "LORD'S GIN CAN", price: "2,050", image: "/lords gin can.jpg" },
             { id: 7, name: "PLASTIC ORIJIN", price: "N3,050", image: "/orbit.avif" },//CHECK
           { id: 8, name: "ODOGWU BITTERS", price: "N3,050", image: "/odbit.jpeg" },
           { id: 9, name: "ODOGWU HAMMER", price: "N2,550", image: "/hammer.webp" },//CHECK
