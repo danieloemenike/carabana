@@ -153,6 +153,7 @@ export const regularMenu = [
              { id: 4, name: "GORDONS GIN", price: "N10,000", image: "/gord.jpeg" },//CHECK
             { id: 5, name: "GORDONS GIN CAN", price: "2,000", image: "/gordons can.jpg" },
             { id: 5, name: "JAGERMEISTER", price: "N30,000", image: "/jarge.webp" },//CHECK
+            { id: 6, name: "LORD'S GIN CAN", price: "N2,050", image: "/lords gin can.jpg" },
             { id: 6, name: "BULLET", price: "N3,550", image: "/bbul.jpeg" },//CHECK
             { id: 7, name: "PLASTIC ORIJIN", price: "N2,550", image: "/orbit.avif" },//CHECK
           { id: 8, name: "ODOGWU BITTERS", price: "N2,550", image: "/odbit.jpeg" },
