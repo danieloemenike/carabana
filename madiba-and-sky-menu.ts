@@ -117,6 +117,7 @@ export const Madiba_Sky_Menu = [
         { id: 5, name: "BIG MAGIC MOMENT", price: "N15,000", image: "/bmm.webp" },
         { id: 6, name: "WILLIAMS LAWSON", price: "N25,000", image: "/wll.jpg" },
         { id: 7, name: "SMIRNOFF X1 SMALL", price: "N4,050", image: "/smvodk.jpeg" },
+            { id: 8, name: "SMIRNOFF X1 MEDIUM", price: "N6,050", image: "/smvodk.jpeg" },
      
       ]
     },
