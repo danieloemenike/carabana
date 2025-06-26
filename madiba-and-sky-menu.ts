@@ -70,7 +70,7 @@ export const Madiba_Sky_Menu = [
       category: "Sweet & Sour Wine",
       drinks: [
         { id: 1, name: "AGOR WINE", price: "N18,000", image: "/agor.jpeg" },
-        { id: 2, name: "ESCUDO ROJO", price: "N25,000", image: "/escudo.jpeg" },
+        { id: 2, name: "ESCUDO ROJO", price: "N30,000", image: "/escudo.jpeg" },
         { id: 3, name: "FOUR COUSINS", price: "N18,000", image: "/fourcous.png" },
         { id: 4, name: "CARLO ROSSI", price: "N15,000", image: "/carlo.jpeg" },
         { id: 5, name: "JK WINE BIG", price: "N12,000", image: "/jamesking.jpeg" },
