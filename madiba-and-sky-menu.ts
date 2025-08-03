@@ -70,9 +70,9 @@ export const Madiba_Sky_Menu = [
       category: "Sweet & Sour Wine",
       drinks: [
         { id: 1, name: "AGOR WINE", price: "N18,000", image: "/agor.jpeg" },
-        { id: 2, name: "ESCUDO ROJO", price: "N30,000", image: "/escudo.jpeg" },
+        { id: 2, name: "ESCUDO ROJO", price: "N35,000", image: "/escudo.jpeg" },
         { id: 3, name: "FOUR COUSINS", price: "N18,000", image: "/fourcous.png" },
-        { id: 4, name: "CARLO ROSSI", price: "N15,000", image: "/carlo.jpeg" },
+        { id: 4, name: "CARLO ROSSI", price: "N17,000", image: "/carlo.jpeg" },
         { id: 5, name: "JK WINE BIG", price: "N12,000", image: "/jamesking.jpeg" },
         { id: 6, name: "JK WINE SMALL", price: "N4,000", image: "/jamesking.jpeg" },
         { id: 7, name: "DEVINA", price: "N10,000", image: "/davina.png" },
@@ -207,8 +207,8 @@ export const Madiba_Sky_Menu = [
       id: 9,
       category: "Cream Liquor",
       drinks: [
-          { id: 1, name: "AMARULA", price: "N15,000", image: "/amarula.png" },
-        { id: 0, name: "BAILEYS", price: "N20,000", image: "/bail.jpeg" },
+          { id: 1, name: "AMARULA", price: "N30,000", image: "/amarula.png" },
+        { id: 0, name: "BAILEYS", price: "N30,000", image: "/bail.jpeg" },
         { id: 2, name: "BEST CREAM", price: "N3,050", image: "/smalbes.webp" },
         { id: 3, name: "SUNSET ROSE SEMI-SWEET WINE", price: "N20,000", image: "/sunsetrose.jpeg" },
          { id: 4, name: "DEROK CAFE", price: "N2,050", image: "/derokcafe.jpg" },
