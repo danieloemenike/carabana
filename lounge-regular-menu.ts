@@ -110,10 +110,10 @@ export const regularMenu = [
       id: 5,
       category: "Vodka",
       drinks: [
-        { id: 1, name: "CIROC", price: "N80,000", image: "/ciroc.jpeg" }, 
-        { id: 2, name: "BELVEDERE VODKA", price: "N70,000", image: "/belvod.webp" },
+        { id: 1, name: "CIROC", price: "N100,000", image: "/ciroc.jpeg" }, 
+        { id: 2, name: "BELVEDERE VODKA", price: "N80,000", image: "/belvod.webp" },
         { id: 3, name: "SMIRNOFF XI", price: "N15,000", image: "/vodsm.webp" },
-        { id: 4, name: "ABSOLUT VODKA", price: "N20,000", image: "/absvod.webp" },
+        { id: 4, name: "ABSOLUT VODKA", price: "N30,000", image: "/absvod.webp" },
         { id: 5, name: "BIG MAGIC MOMENT", price: "N15,000", image: "/bmm.webp" },
         { id: 6, name: "WILLIAMS LAWSON", price: "N25,000", image: "/wll.jpg" },
         { id: 7, name: "SMIRNOFF X1 SMALL", price: "N3,550", image: "/smvodk.jpeg" },
@@ -149,7 +149,7 @@ export const regularMenu = [
         category: "Spirit / Mixed",
         drinks: [
           { id: 1, name: "LORD'S GIN", price: "N10,000", image: "/lordsgin.png" },//CHECK
-          { id: 2, name: "BIG CAMPARI", price: "N20,000", image: "/camp.jpeg" },
+          { id: 2, name: "BIG CAMPARI", price: "N25,000", image: "/camp.jpeg" },
             { id: 3, name: "SMALL CAMPARI", price: "N5,000", image: "/smallca.webp" },
              { id: 4, name: "GORDONS GIN", price: "N10,000", image: "/gord.jpeg" },//CHECK
             { id: 5, name: "GORDONS GIN CAN", price: "2,000", image: "/gordons can.jpg" },
