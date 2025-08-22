@@ -128,15 +128,15 @@ export const Madiba_Sky_Menu = [
             { id: 1, name: "COKE", price: "N1,050", image: "/coke.png" },
             { id: 2, name: "SPRITE", price: "N1,050", image: "/sprite.jpeg" },
             { id: 3, name: "SCHWEPPES", price: "N1,250", image: "/schw.avif" },
-            { id: 4, name: "FAYROUZ", price: "N1,050", image: "/fayrouz-pet-x12.jpg" },
+            { id: 4, name: "FAYROUZ", price: "N1,250", image: "/fayrouz-pet-x12.jpg" },
             { id: 5, name: "MALTA GUINNESS", price: "N1,550", image: "/mltg.jpeg" },
             { id: 6, name: "AMSTEL MALTA ", price: "N1,550", image: "/amsmalt.png" },
             { id: 7, name: "HANGOVER TEA ", price: "N1,000", image: "/hgov.jpeg" },
-            { id: 8, name: "REDBULL", price: "N2550", image: "/redbull.jpeg" },//CHECK
-            { id: 9, name: "BIG CHIVITA", price: "N2,550", image: "/chibig.jpeg" },//CHECK
-            { id: 10, name: "SMALL CHIVITA", price: "N850", image: "/chismall.jpeg" },//CHECK
+            { id: 8, name: "REDBULL", price: "N3,050", image: "/redbull.jpeg" },//CHECK
+            { id: 9, name: "BIG CHIVITA", price: "N3,050", image: "/chibig.jpeg" },//CHECK
+            { id: 10, name: "SMALL CHIVITA", price: "N1,050", image: "/chismall.jpeg" },//CHECK
             { id: 11, name: "CRANBERRY", price: "N10,000", image: "/stute.png" },
-            { id: 12, name: "BIG HOLLANDIA", price: "N3,050", image: "/hy.jpeg" },
+            { id: 12, name: "BIG HOLLANDIA", price: "N3,550", image: "/hy.jpeg" },
             { id: 13, name: "SMALL HOLLANDIA", price: "N1,250", image: "/hy.jpeg" },
           { id: 14, name: "ICE TEA BIG", price: "N2,050", image: "/icedtea.jpeg" },
           { id: 15, name: "TEEZERS", price: "N1,550", image: "/teezers.jpeg" },
@@ -176,8 +176,8 @@ export const Madiba_Sky_Menu = [
         category: "Beers",
         drinks: [
             { id: 1, name: "DESPERADO", price: "N1,850", image: "/desp.jpg" },
-            { id: 2, name: "BIG STOUT", price: "N2,250", image: "/bigstout.webp" },
-            { id: 3, name: "HEINEKEN", price: "N2,050", image: "/hein.jpg" },
+            { id: 2, name: "BIG STOUT", price: "N2,550", image: "/bigstout.webp" },
+            { id: 3, name: "HEINEKEN", price: "N2,250", image: "/hein.jpg" },
             { id: 4, name: "BIG ORIJIN", price: "N2,050", image: "/Orijin-Beer.webp" },
             { id: 5, name: "TIGER", price: "N1,550", image: "/tiger.jpeg" },
             { id: 6, name: "SMALL STOUT", price: "N1,550", image: "/Stout.jpg" },
@@ -209,7 +209,7 @@ export const Madiba_Sky_Menu = [
       drinks: [
           { id: 1, name: "AMARULA", price: "N30,000", image: "/amarula.png" },
         { id: 0, name: "BAILEYS", price: "N30,000", image: "/bail.jpeg" },
-        { id: 2, name: "BEST CREAM", price: "N3,050", image: "/smalbes.webp" },
+        { id: 2, name: "BEST CREAM", price: "N5,000", image: "/smalbes.webp" },
         { id: 3, name: "SUNSET ROSE SEMI-SWEET WINE", price: "N20,000", image: "/sunsetrose.jpeg" },
          { id: 4, name: "DEROK CAFE", price: "N2,050", image: "/derokcafe.jpg" },
               { id: 5, name: "IVORY CREAM", price: "N2,050", image: "/ivorycream.jpeg" },    
