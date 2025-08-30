@@ -25,15 +25,15 @@ export const kitchenMenu = [
           { id: 3, name: "POTATO WEDGES", price: "N3,000", image: "/potatowedge.webp" }, 
           { id: 4, name: "GIZIDODO", price: "N6,000", image: "/gizdd.jpg" },
           { id: 5, name: "YAM FRIES", price: "N2,500", image: "/yamfries.jpeg" },
-          { id: 6, name: "PEPPERED SNAIL", price: "N7,000", image: "/pepperedsnail.jpeg" }, 
+          { id: 6, name: "PEPPERED SNAIL", price: "N10,000", image: "/pepperedsnail.jpeg" }, 
           { id: 7, name: "PEPPERED CHICKEN(BIG)", price: "N4,500", image: "/pepperedchicken.jpeg" },
           { id: 8, name: "PEPPERED CHICKEN(MID)", price: "N3,500", image: "/pepperedchick.jpeg" },
           { id: 9, name: "PEPPERED CHICKEN(SMALL)", price: "N2,500", image: "/pepperedc.webp" },
           { id: 10, name: "PEPPERED TURKEY(BIG)", price: "N4,500", image: "/pepperedturkey.jpeg" },
           { id: 11, name: "PEPPERED TURKEY(MID)", price: "N3,500", image: "/pepperedturkey.jpeg" },
           { id: 12, name: "PEPPERED TURKEY(SMALL)", price: "N2,500", image: "/pepperedturkey.jpeg" },
-          { id: 13, name: "PEPPERED GOATMEAT(BIG)", price: "N6,000", image: "/pepperedgoatmeat.jpeg" },
-          { id: 14, name: "PEPPERED GOATMEAT(SMALL)", price: "N3,500", image: "/pepperedgoatmeat.jpeg" },
+          { id: 13, name: "PEPPERED GOATMEAT(BIG)", price: "N8,000", image: "/pepperedgoatmeat.jpeg" },
+          { id: 14, name: "PEPPERED GOATMEAT(SMALL)", price: "N4,000", image: "/pepperedgoatmeat.jpeg" },
           { id: 15, name: "FULL CHICKEN VEG", price: "N12,000", image: "/chickenveg.jpeg" },
         ]
     },
@@ -48,7 +48,7 @@ export const kitchenMenu = [
         { id: 5, name: "FRIED RICE", price: "N3,500", image: "/friedrice.jpeg" },
         { id: 6, name: "COCONUT RICE", price: "N3,000", image: "/coconutrice.jpeg" },
         { id: 7, name: "VILLAGE RICE", price: "N3,500", image: "/villagerice.webp" },
-        { id: 8, name: "BASMATIC RICE", price: "N2,500", image: "/basmaticrice.jpeg" },
+        { id: 8, name: "BASMATIC RICE", price: "N3,000", image: "/basmaticrice.jpeg" },
         { id: 20, name: "BASMATIC RICE(FRIED/JOLLOF)", price: "N4,500", image: "/basmaticrice.jpeg" }, 
           { id: 8, name: "THAI PINEAPPLE FRIED RICE", price: "5,500", image: "/Easy-Thai-Pineapple-Fried-Rice-recipe.jpg" },
         { id: 9, name: "NOODLES", price: "N1,700", image: "/noodless.jpeg" },
@@ -89,12 +89,12 @@ export const kitchenMenu = [
       id: 5,
       category: "Grills",
       food: [
-        { id: 1, name: "ASUN", price: "N2,000", image: "/asunnn.jpeg" }, 
+        { id: 1, name: "ASUN", price: "N3,000", image: "/asunnn.jpeg" }, 
         { id: 2, name: "SUYA", price: "N1,000", image: "/suya.jpeg" },
         { id: 3, name: "CHICKEN & CHIPS", price: "N5,000", image: "/chickenandchips.jpeg" },
         { id: 4, name: "CATFISH BBQ", price: "N18,000", image: "/catfishbbq.jpeg" },
         { id: 5, name: "CROACKER FISH BBQ", price: "N10,000", image: "/croackerfish.jpeg" },
-        { id: 6, name: "SHAWARMA", price: "N2,500", image: "/shawarma.jpeg" },
+        { id: 6, name: "SHAWARMA", price: "N3,000", image: "/shawarma.jpeg" },
   
      
       ]
