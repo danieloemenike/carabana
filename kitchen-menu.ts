@@ -4,9 +4,9 @@ export const kitchenMenu = [
         category: "Starters",
         food: [
           { id: 0, name: "NKWOBI", price: "N3,000", image: "/nkwobi.jpeg" },
-          { id: 1, name: "ISI-EWU(GOAT HEAD)", price: "N10,000", image: "/isiewu.jpeg" },
+          { id: 1, name: "ISI-EWU(GOAT HEAD)", price: "N12,000", image: "/isiewu.jpeg" },
           { id: 2, name: "GOATMEAT PEPPERSOUP", price: "N4,000", image: "/goatmeat.jpeg" },
-            { id: 3, name: "ASSORTED GOATMEAT PEPPERSOUP", price: "5,000", image: "/Assorted-Goat-Meat-Peppersoup.jpg" },
+            { id: 3, name: "ASSORTED GOATMEAT PEPPERSOUP", price: "6,000", image: "/Assorted-Goat-Meat-Peppersoup.jpg" },
           { id: 3, name: "ASSORTED PEPPERSOUP", price: "N6,000", image: "/assortedpp.jpeg" }, 
           { id: 4, name: "CHICKEN PEPPERSOUP", price: "N5,000", image: "/chickenpp.jpeg" },
           { id: 5, name: "TURKEY PEPPERSOUP", price: "N5,000", image: "/turkeypp.jpeg" },
@@ -34,7 +34,7 @@ export const kitchenMenu = [
           { id: 12, name: "PEPPERED TURKEY(SMALL)", price: "N2,500", image: "/pepperedturkey.jpeg" },
           { id: 13, name: "PEPPERED GOATMEAT(BIG)", price: "N6,000", image: "/pepperedgoatmeat.jpeg" },
           { id: 14, name: "PEPPERED GOATMEAT(SMALL)", price: "N3,500", image: "/pepperedgoatmeat.jpeg" },
-          { id: 15, name: "FULL CHICKEN VEG", price: "N8,500", image: "/chickenveg.jpeg" },
+          { id: 15, name: "FULL CHICKEN VEG", price: "N12,000", image: "/chickenveg.jpeg" },
         ]
     },
     {
@@ -73,7 +73,7 @@ export const kitchenMenu = [
       food: [
           { id: 1, name: "POUNDO", price: "N1,500", image: "/poundoyam.jpeg" },
           { id: 2, name: "SEMO", price: "N1,000", image: "/semo.jpeg" },
-        { id: 3, name: "WHEAT", price: "N800", image: "/wheat.jpeg" },
+        { id: 3, name: "WHEAT", price: "N1,000", image: "/wheat.jpeg" },
         { id: 4, name: "GARRI", price: "N1,000", image: "/garri.jpeg" },   
         { id: 5, name: "POUNDED YAM", price: "N2,500", image: "/pounded-yam.jpeg" },   
         { id: 6, name: "VEGETABLE SOUP", price: "N1,200", image: "/vegetable_soup_recipe.webp" },
