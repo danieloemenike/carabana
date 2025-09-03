@@ -34,7 +34,7 @@ export const kitchenMenu = [
           { id: 12, name: "PEPPERED TURKEY(SMALL)", price: "N2,500", image: "/pepperedturkey.jpeg" },
           { id: 13, name: "PEPPERED GOATMEAT(BIG)", price: "N8,000", image: "/pepperedgoatmeat.jpeg" },
           { id: 14, name: "PEPPERED GOATMEAT(SMALL)", price: "N4,000", image: "/pepperedgoatmeat.jpeg" },
-          { id: 15, name: "FULL CHICKEN VEG", price: "N12,000", image: "/chickenveg.jpeg" },
+          { id: 15, name: "FULL CHICKEN VEG", price: "N15,000", image: "/chickenveg.jpeg" },
         ]
     },
     {
