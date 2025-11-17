@@ -195,10 +195,10 @@ export const Madiba_Sky_Menu = [
             { id: 18, name: "LEGEND", price: "N2,050", image: "/legend.jpeg" },
             { id: 19, name: "ODOGWU BITTERS", price: "N3,050", image: "/odbit.jpeg" },
             { id: 20, name: "BUDWEISER", price: "N2,050", image: "/budbig.avif" },
-            { id: 21, name: "WATER", price: "N750", image: "/wt.png" },
             { id: 22, name: "SMIRNOFF ICE DOUBLE BLACK CAN", price: "N2550", image: "/dbice.jpeg" }, 
           { id: 23, name: "FLYING FISH", price: "N1,550", image: "/ff.jpeg" },
           { id: 24, name: "CASTLE LITE", price: "N2,050", image: "/lite.webp" },
+            { id: 21, name: "WATER", price: "N800", image: "/wt.png" },
         ]
     },
       
@@ -212,7 +212,7 @@ export const Madiba_Sky_Menu = [
         { id: 2, name: "BEST CREAM", price: "N5,000", image: "/smalbes.webp" },
         { id: 3, name: "SUNSET ROSE SEMI-SWEET WINE", price: "N20,000", image: "/sunsetrose.jpeg" },
          { id: 4, name: "DEROK CAFE", price: "N2,050", image: "/derokcafe.jpg" },
-              { id: 5, name: "IVORY CREAM", price: "N2,050", image: "/ivorycream.jpeg" },    
+              { id: 5, name: "IVORY CREAM", price: "N2,050", image: "/ivorycream.jpeg" },   
       ]
     },
     {
