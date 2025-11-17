@@ -141,6 +141,7 @@ export const Madiba_Sky_Menu = [
           { id: 14, name: "ICE TEA BIG", price: "N2,050", image: "/icedtea.jpeg" },
           { id: 15, name: "TEEZERS", price: "N1,550", image: "/teezers.jpeg" },
           { id: 16, name: "ZOBO", price: "N1,550", image: "/zobo.jpeg" },
+             { id: 21, name: "WATER", price: "N800", image: "/wt.png" },
             
         ]
     },
@@ -198,7 +199,7 @@ export const Madiba_Sky_Menu = [
             { id: 22, name: "SMIRNOFF ICE DOUBLE BLACK CAN", price: "N2550", image: "/dbice.jpeg" }, 
           { id: 23, name: "FLYING FISH", price: "N1,550", image: "/ff.jpeg" },
           { id: 24, name: "CASTLE LITE", price: "N2,050", image: "/lite.webp" },
-            { id: 21, name: "WATER", price: "N800", image: "/wt.png" },
+           
         ]
     },
       
