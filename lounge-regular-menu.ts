@@ -141,6 +141,7 @@ export const regularMenu = [
             { id: 14, name: "ICE TEA BIG", price: "N1,750", image: "/icedtea.jpeg" },
           { id: 15, name: "ZOBO", price: "N1,550", image: "/zobo.jpeg" },
           { id: 16, name: "TEEZERS", price: "N1,550", image: "/teezers.jpeg" },
+            { id: 17, name: "WATER", price: "N550", image: "/wt.png" },
         ]
     },
           
@@ -193,7 +194,6 @@ export const regularMenu = [
             { id: 18, name: "LEGEND", price: "N2,050", image: "/legend.jpeg" },
             { id: 19, name: "ODOGWU BITTERS", price: "N2,050", image: "/odbit.jpeg" },
             { id: 20, name: "BUDWEISER", price: "N1,850", image: "/budbig.avif" },
-            { id: 21, name: "WATER", price: "N550", image: "/wt.png" },
             { id: 22, name: "SMIRNOFF ICE DOUBLE BLACK", price: "N2,050", image: "/dbice.jpeg" }, 
           { id: 23, name: "FLYING FISH", price: "N1,250", image: "/ff.jpeg" },
           { id: 24, name: "CASTLE LITE", price: "N1,550", image: "/lite.webp" },
