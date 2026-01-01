@@ -138,6 +138,7 @@ export const Madiba_Sky_Menu = [
             { id: 11, name: "CRANBERRY", price: "N10,000", image: "/stute.png" },
             { id: 12, name: "BIG HOLLANDIA", price: "N3,550", image: "/hy.jpeg" },
             { id: 13, name: "SMALL HOLLANDIA", price: "N1,250", image: "/hy.jpeg" },
+            { id: 14, name: "ZONNI YORGHURT", price: "N3,000", image: "/zonni.jpg" },
           { id: 14, name: "ICE TEA BIG", price: "N2,050", image: "/icedtea.jpeg" },
           { id: 15, name: "TEEZERS", price: "N1,550", image: "/teezers.jpeg" },
           { id: 16, name: "ZOBO", price: "N1,550", image: "/zobo.jpeg" },
