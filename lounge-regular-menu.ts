@@ -178,6 +178,7 @@ export const regularMenu = [
             { id: 1, name: "DESPERADO", price: "N1,550", image: "/desp.jpg" },
             { id: 2, name: "BIG STOUT", price: "N2,250", image: "/bigstout.webp" },
             { id: 3, name: "HEINEKEN", price: "N2,050", image: "/hein.jpg" },
+            { id: 4, name: "MEDIUM HEINEKEN", price: "1,550", image: "/heineken.jfif" },
             { id: 4, name: "BIG ORIJIN", price: "N1,850", image: "/Orijin-Beer.webp" },
             { id: 5, name: "TIGER", price: "N1,250", image: "/tiger.jpeg" },
             { id: 6, name: "SMALL STOUT", price: "N1,250", image: "/Stout.jpg" },
