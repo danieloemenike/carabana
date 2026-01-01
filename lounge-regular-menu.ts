@@ -139,6 +139,7 @@ export const regularMenu = [
             { id: 12, name: "BIG HOLLANDIA", price: "N3,550", image: "/hy.jpeg" },
             { id: 13, name: "SMALL HOLLANDIA", price: "N1,250", image: "/hy.jpeg" },
             { id: 14, name: "ICE TEA BIG", price: "N1,750", image: "/icedtea.jpeg" },
+            { id: 15, name: "ZONNI YORGHURT", price: "N3,000", image: "/zonni.jpg" },
           { id: 15, name: "ZOBO", price: "N1,550", image: "/zobo.jpeg" },
           { id: 16, name: "TEEZERS", price: "N1,550", image: "/teezers.jpeg" },
             { id: 17, name: "WATER", price: "N700", image: "/wt.png" },
