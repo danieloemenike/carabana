@@ -131,7 +131,7 @@ export const Madiba_Sky_Menu = [
             { id: 4, name: "FAYROUZ", price: "N1,250", image: "/fayrouz-pet-x12.jpg" },
             { id: 5, name: "MALTA GUINNESS", price: "N1,550", image: "/mltg.jpeg" },
             { id: 6, name: "AMSTEL MALTA ", price: "N1,550", image: "/amsmalt.png" },
-            { id: 7, name: "HANGOVER TEA ", price: "N1,000", image: "/hgov.jpeg" },//CHECK
+            //{ id: 7, name: "HANGOVER TEA ", price: "N1,000", image: "/hgov.jpeg" },//CHECK
             { id: 8, name: "REDBULL", price: "N3,050", image: "/redbull.jpeg" },//CHECK
             { id: 9, name: "BIG CHIVITA", price: "N3,050", image: "/chibig.jpeg" },//CHECK
             { id: 10, name: "SMALL CHIVITA", price: "N1,050", image: "/chismall.jpeg" },//CHECK
@@ -141,7 +141,7 @@ export const Madiba_Sky_Menu = [
             { id: 14, name: "ZONNI YORGHURT", price: "N3,000", image: "/zonni.jpg" },
           { id: 14, name: "ICE TEA BIG", price: "N2,050", image: "/icedtea.jpeg" },
           { id: 15, name: "TEEZERS", price: "N1,550", image: "/teezers.jpeg" },
-          { id: 16, name: "ZOBO", price: "N1,550", image: "/zobo.jpeg" },//CHECK
+         // { id: 16, name: "ZOBO", price: "N1,550", image: "/zobo.jpeg" },//CHECK
              { id: 17, name: "WATER", price: "N800", image: "/wt.png" },
             
         ]
