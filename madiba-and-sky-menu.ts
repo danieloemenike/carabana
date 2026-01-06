@@ -180,7 +180,7 @@ export const Madiba_Sky_Menu = [
             { id: 1, name: "DESPERADO", price: "N1,850", image: "/desp.jpg" },
             { id: 2, name: "BIG STOUT", price: "N2,550", image: "/bigstout.webp" },
             { id: 3, name: "HEINEKEN", price: "N2,250", image: "/hein.jpg" },
-            { id: 4, name: "MEDIUM HEINEKEN", price: "1,750", image: "/heineken.jfif" },
+            { id: 4, name: "MEDIUM HEINEKEN", price: "1,750", image: "/hein.jpg" },
             { id: 4, name: "BIG ORIJIN", price: "N2,050", image: "/Orijin-Beer.webp" },
             { id: 5, name: "TIGER", price: "N1,550", image: "/tiger.jpeg" },
             { id: 6, name: "SMALL STOUT", price: "N1,550", image: "/Stout.jpg" },
