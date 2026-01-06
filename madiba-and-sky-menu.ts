@@ -184,7 +184,7 @@ export const Madiba_Sky_Menu = [
             { id: 4, name: "BIG ORIJIN", price: "N2,050", image: "/Orijin-Beer.webp" },
             { id: 5, name: "TIGER", price: "N1,550", image: "/tiger.jpeg" },
             { id: 6, name: "SMALL STOUT", price: "N1,550", image: "/Stout.jpg" },
-            { id: 7, name: "GOLDBERG", price: "N1,850", image: "/gold.jpeg" },
+            { id: 7, name: "GOLDBERG", price: "N1,850", image: "/goldberg.jpg" },
             { id: 8, name: "GULDER", price: "N1,850", image: "/guld.jpeg" },
             { id: 9, name: "33 EXPORT", price: "N1,850", image: "/33-bottle.jpg" },
             { id: 10, name: "STAR", price: "N1,850", image: "/star.jpeg" },
