@@ -21,8 +21,8 @@ export const Madiba_Sky_Menu = [
         category: "Cognac",
         drinks: [
           { id: 0, name: "HENNESSY XO", price: "N550,000", image: "/henxo.jpeg" },
-          { id: 1, name: "HENNESSY VSOP", price: "N180,000", image: "/henvs.png" },
-          { id: 2, name: "HENNESSY VS", price: "N120,000", image: "/images.jpeg" },
+          { id: 1, name: "HENNESSY VSOP", price: "N190,000", image: "/henvs.png" },
+          { id: 2, name: "HENNESSY VS", price: "N130,000", image: "/images.jpeg" },
           { id: 3, name: "MARTELL XXO", price: "N600,000", image: "/martelxxo.webp" }, 
           { id: 4, name: "MARTELL XO", price: "N450,000", image: "/Martell-XO.webp" },
           { id: 5, name: "MARTELL BLUESWIFT", price: "N150,000", image: "/mtswift.png" },
@@ -60,7 +60,7 @@ export const Madiba_Sky_Menu = [
           { id: 19, name: "CHIVAS XV 15 YEARS", price: "N100,000", image: "/chivasxv15.jpeg" },
             { id: 20, name: "OBSERVATORY 20YRS", price: "N150,000", image: "/observatory-20y.jpg" },
             { id: 21, name: "BALVENIE", price: "120,000", image: "/balvenie.jpeg" },
-            { id: 22, name: "GENTLEMAN JACK", price: "100,000", image: "/GentlemanJack.webp" },
+            { id: 22, name: "GENTLEMAN JACK", price: "110,000", image: "/GentlemanJack.webp" },
             { id: 23, name: "SINGLE BARREL JD", price: "150,000", image: "/singlebarrel.jpg" },
         ]
       },
