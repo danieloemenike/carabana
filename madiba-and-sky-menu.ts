@@ -6,6 +6,7 @@ export const Madiba_Sky_Menu = [
           { id: 0, name: "AZUL BLACK MEZCAL", price: "N1,200,000", image: "/blavkazul.jpeg" },
           { id: 1, name: "AZUL CLASE", price: "N600,000", image: "/azulclase.webp" },
           { id: 2, name: "DON JULIO", price: "N700,000", image: "/donju.png" },
+           { id: 2, name: "DON JULIO REPOSADO", price: "350,000", image: "/DON JULIO.jpg" },  
           { id: 3, name: "VOLCAN XA", price: "N450,000", image: "/volxa.png" }, 
           { id: 4, name: "VOLCAN WHITE", price: "N200,000", image: "/volwhite.webp" },
           { id: 5, name: "VOLCAN GOLD", price: "N200,000", image: "/volgold.webp" },
