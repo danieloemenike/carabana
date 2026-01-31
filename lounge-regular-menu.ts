@@ -10,6 +10,7 @@ export const regularMenu = [
           { id: 3, name: "VOLCAN XA", price: "N450,000", image: "/volxa.png" }, 
           { id: 4, name: "VOLCAN WHITE", price: "N200,000", image: "/volwhite.webp" },
           { id: 5, name: "VOLCAN GOLD", price: "N200,000", image: "/volgold.webp" },
+            { id: 6, name: "KICK THE RULES", price: "N 120,000", image: "/ktr.png" },
           { id: 6, name: "SIERRA TEQUILA", price: "N40,000", image: "/st.webp" }, 
           { id: 7, name: "OLMECA TEQUILA", price: "N80,000", image: "/otqq.webp" },
           { id: 8, name: "CASA MAESTRI", price: "N250,000", image: "/casaa.webp" },
