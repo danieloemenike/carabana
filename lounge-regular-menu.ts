@@ -153,8 +153,8 @@ export const regularMenu = [
         category: "Spirit / Mixed",
         drinks: [
           { id: 1, name: "LORD'S GIN", price: "N10,000", image: "/lordsgin.png" },//CHECK
-          { id: 2, name: "BIG CAMPARI", price: "N25,000", image: "/camp.jpeg" },
-            { id: 3, name: "SMALL CAMPARI", price: "N5,000", image: "/smallca.webp" },
+          { id: 2, name: "BIG CAMPARI", price: "N30,000", image: "/camp.jpeg" },
+            { id: 3, name: "SMALL CAMPARI", price: "N10,000", image: "/smallca.webp" },
              { id: 4, name: "GORDONS GIN", price: "N10,000", image: "/gord.jpeg" },//CHECK
             { id: 5, name: "GORDONS GIN CAN", price: "2,000", image: "/gordons can.jpg" },
             { id: 5, name: "JAGERMEISTER", price: "N30,000", image: "/jarge.webp" },//CHECK
