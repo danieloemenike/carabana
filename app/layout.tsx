@@ -3,6 +3,7 @@ import { Inter, Geist } from "next/font/google";
 import "./globals.css";
 import localFont from 'next/font/local'
 import { cn } from "@/lib/utils";
+import { AppProviders } from "@/components/providers/AppProviders";
 
 const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
@@ -33,7 +34,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={cn("font-sans", geist.variable)}>
-      <body className={  `${inter.variable} ${gv.variable} ` }>{children}</body>
+      <body className={  `${inter.variable} ${gv.variable} ` }>
+        <AppProviders>{children}</AppProviders>
+      </body>
     </html>
   );
 }

@@ -1,17 +1,16 @@
-import React from 'react'
-import Menu from './_components/Menu';
-import Header from '../../../../components/Header';
-import Hero from '../_components/Hero';
+import Menu from "./_components/Menu";
+import Hero from "../_components/Hero";
+import { getSectionHeroByRoute } from "@/lib/menus/queries";
 
-type Props = {}
+export const dynamic = "force-dynamic";
 
-function RegularPage({}: Props) {
-    return (
-        <section className='bg-gradient-to-r from-orange-800/10 via-black to-zinc-800/15 '>
-           <Hero path="/clubb1.jpg" title="A Classy Affair, Every Night" />
-            <Menu/>
-        </section>
-    );
+export default async function RegularPage() {
+  const heroPath = (await getSectionHeroByRoute("club", "regular")) ?? "/clubb1.jpg";
+
+  return (
+    <section className="bg-gradient-to-r from-orange-800/10 via-black to-zinc-800/15 ">
+      <Hero path={heroPath} title="A Classy Affair, Every Night" />
+      <Menu />
+    </section>
+  );
 }
-
-export default RegularPage
